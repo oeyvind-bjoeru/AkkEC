@@ -1,0 +1,5532 @@
+@project akkec/obab
+@lang    akk-x-oldbab
+@name    akk-x-oldbab
+
+@letter A
+
++@entry abarakku [steward] N
+@form AGRIG $abarakkim
+@sense N steward
+@end entry
+
++@entry abātu [run away] V
+@form i-ta-bi-tu-ni-im $ittābitūnim
+@sense V run away
+@end entry
+
++@entry abu [father] N
+@form a-bi-ia $abiya
+@form a-bi $abī
+@form a-bi-ma $abīma
+@form a-bi-šu $abišu
+@form a-bi-ka $abika
+@form a-bi-i-ka $abīka
+@form a-bi-ka₃ $abika
+@sense N father
+@end entry
+
++@entry abullu [gate] N
+@form KA₂.GAL $abullum
+@sense N gate
+@end entry
+
++@entry adānu [fixed date] N
+@form ha-da-ni-i-ka $hadānika
+@form ha-da-ni-ka $hadānika
+@sense N appointed time
+@end entry
+
++@entry adāru [be(come) afraid (of)] V
+@form ad-di-ru-ma $addirūma
+@sense V be(come) afraid (of)
+@end entry
+
++@entry addatu [daddy] N
+@form a-da-tum-ma $addatumma
+@sense N daddy
+@end entry
+
++@entry adi [until] PRP
+@form a-di $adi
+@form a-di₃ $adi
+@sense PRP until
+@sense PRP up to
+@sense SBJ until
+@sense PRP all the way to
+@end entry
+
++@entry adīni [hitherto] AV
+@form a-di-ni $adīni
+@form a-di-i-ni $adīni
+@sense AV hitherto
+@end entry
+
++@entry agālu [donkey] N
+@form DUSU₂-HI.A $agālī
+@sense N donkey
+@end entry
+
++@entry agāru [hire] V
+@form a-ga-ar $aggar
+@sense V hire
+@end entry
+
++@entry āgiru [renting] AJ
+@form a-gi-ri-ša $āgiriša
+@sense N renter
+@end entry
+
++@entry agru [hireling] N
+@form ag-ru $agrū
+@form {lu₂}HUN.GA₂-MEŠ $agrī
+@form ag-ri $agrī
+@sense N hireling
+@end entry
+
++@entry ahamma [apart] AV
+@form a-ha-am-ma $ahamma
+@sense AV separately
+@end entry
+
++@entry ahātu [sister] N
+@form a-ka-ti-i $akātī
+@form a-ha-at-ki $ahātki
+@form a-ha-at-ni $ahātni
+@form a-ha-ti-ia $ahātiya
+@sense N sister
+@end entry
+
++@entry ahāzu [take] V
+@form u₂-ša-ah-ha-za-an-ni $ušahhazanni
+@form i-hu-za-am-ma $īhuzamma
+@form li-hu-zu-ni-ku-um-ma $līhuzūnikkumma
+@sense V instigate proceedings
+@sense V take
+@end entry
+
++@entry ahhūtu [brotherhood] N
+@form a-hu-ut-ka $ahhūtka
+@form a-hu-u₂-ti $ahhūtī
+@sense N brotherhood
+@end entry
+
++@entry ahītu [side] N
+@form a-hi-tim $ahītim
+@sense N additional payment
+@end entry
+
++@entry ahû [outside(r)] AJ
+@form a-hu-u₂-um $ahûm
+@sense AJ foreign
+@end entry
+
++@entry ahu [arm] N
+@form a-ha-ti-ku-nu $ahātīkunu
+@form a-ah-ša $ahša
+@form GU₂ $ahi
+@sense N border
+@sense N arm
+@sense N bank
+@end entry
+
++@entry ahu [brother] N
+@form a-hi-ia $ahiya
+@form a-hi-šu-nu $ahišunu
+@form a-hi $ahī
+@form a-hu-šu $ahušu
+@form a-hu-ka₃ $ahūka
+@form a-ha-am $aham
+@form a-hi-šu $ahišu
+@form a-hi $ahi
+@form ah-hi-ka $ahhīka
+@form a-hi-ni $ahīni
+@form a-hu-ni $ahūni
+@form ah-hi-ia $ahhiya
+@form a-hu-ni-ma $ahūnima
+@sense N brother
+@end entry
+
++@entry akalu [bread] N
+@form a-ka-lam $akalam
+@form NINDA $akalum
+@sense N food
+@sense N bread
+@end entry
+
++@entry akalu [food] N
+@form NINDA $akalim
+@sense N bread
+@end entry
+
++@entry akālu [eat] V
+@form i-ku-lu-u₂ $īkulu
+@form li-ku-ul $līkul
+@form ta-ka-la $takkalā
+@form i-ku-lu $īkulu
+@form i-ka-al $ikkal
+@form li-ša-ki-il $lišākil
+@form li-ša-ki-{x}lu $lišākilū
+@form i-ku-ul $īkul
+@sense V eat
+@sense X consume
+@sense V fatten
+@end entry
+
++@entry aklu [eaten] AJ
+@form ak-la-at $aklat
+@sense AJ fed
+@end entry
+
+@entry alāku [go] V
+@form i-la-ak $illak
+@form i-la-ka-am $illakam
+@form i-ta-la-ak $ittalak
+@form i-ta-la-ku $ittallakū
+@form it-ta-la-ak $ittalak
+@form li-li-ku-ma $lillikūma
+@form li-ta-al-ku-ni-im-ma $littalkūnimma
+@form it-ta-la-ak $ittalak
+@form a-la-kam $alākam
+@form a-al-la-kam $allakam
+@form i-li-kam $illikam
+@form il-li-kam-ma $illikamma
+@form il-li-ku-ni-kum-ma $illikūnikkumma
+@form it-ta-al-ku-ni-ik-ku-um $ittalkūnikkum
+@form a-li-ik-ma $alikma
+@form i-la-ka-nim $illakānim
+@form il-li-ka-am $illikam
+@form it-ta-al-ka $ittalka
+@form li-il-li-ik-ma $lillikma
+@form ta-at-ta-na-al-la-ku $tattanallaku
+@form li-it-ta-al-la-ki $littallakī
+@form it-ta-na-la-ka-nim-ma $ittanallakānimma
+@form il-li-ka-am-ma $illikamma
+@form a-la-ak-ma $allakma
+@form a-la-kam $allakam
+@form a-la-ka₃-kum $allakkum
+@form i-il-la-ku $illakū
+@form li-li-kam $lillikam
+@form lu-li-ik $lullik
+@form lu-ul-li-kam-ma $lullikamma
+@form li-ta-la-ak $littalak
+@form it-ta-al-kam $ittalkam
+@form il-li-ik-ma $illikma
+@form al-li-kam $allikam
+@form al-kam-ma $alkamma
+@form a-la-ki-ia $alākiya
+@form il-li-ku $illikū
+@form it-ta-al-ku $ittalkū
+@form ta-al-la-kam $tallakam
+@form li-it-ta-al-kam $littalkam
+@form ta-al-li-kam $tallikam
+@form i-ta-al-kam $ittalkam
+@form at-lu-ki $atlukī
+@form li-li-ik-ma $lillikma
+@form at-ta-la-ak $attalak
+@form i₃-la-ka₃-na $illakanna
+@form il-li-ku-nim-ma $illikūnimma
+@form a-al-ka-a-ma $alkāma
+@form i-la-ku $illaku
+@form li-il-li-kam $lillikam
+@form i-la-kam-ma $illakamma
+@form it-ta-al-ku-ni-ku-nu-ši-im $ittalkūnikkunūšim
+@form ta-ta-al-kam $tattalkam
+@form a-la-ka $allaka
+@form i-la-ku-ni-im $illakūnim
+@form a-la-ak $allak
+@form i-ta-al-kam-ma $ittalkamma
+@form a-la-ka-am $alākam
+@form i-ta-la-ku-ni-im $ittallakūnim
+@form lu-li-ik-ma $lullikma
+@sense V go
+@sense V go away
+@sense N going
+@sense V come
+@sense V roam
+@sense V set out
+@sense V leave
+@sense N leaving
+@end entry
+
++@entry aldû [(grain) quota] N
+@form al-da-am $aldâm
+@sense N (grain) quota
+@end entry
+
++@entry āliku [going] AJ
+@form a-li-ik $ālik
+@sense N goer
+@end entry
+
++@entry alpu [bull] N
+@form GU₄ $alpa
+@form GU₄ $alpī
+@form GU₄ $alpi
+@form GU₄-HI.A-šu $alpīšu
+@form GU₄-šu $alapšu
+@form GU₄ $alpum
+@form GU₄-HI.A $alpī
+@form GU₄.ŠE-HI.A $alpī $(marūtim)
+@form al-pi $alpī
+@form al-pi₂-i $alpī
+@form al-pi₂ $alpī
+@sense N bull
+@end entry
+
++@entry ālu [city] N
+@form URU{ki} $āl
+@form a-li-im $ālim
+@form a-lum $ālum
+@form a-la $āla
+@form a-lim-ma $ālimma
+@form a-lim $ālim
+@form a-al-ka₃ $ālka
+@form a-al-šu $ālšu
+@form a-al $āl
+@form a-la-nu-ia $ālānuya
+@form a-la-nu-ka $ālānuka
+@form a-la-nu $ālānu
+@form a-lam $ālam
+@form a-li-a $āliya
+@form a-lim{ki} $ālim
+@form a-lu-um $ālum
+@form IRI{ki} $ālum
+@form IRI $āl
+@form IRI{KI} $āl
+@form IRI{ki} $āl
+@form a-la-am $ālam
+@form a-li-im-ma $ālimma
+@sense N city
+@end entry
+
++@entry amāru [see] V
+@form i-ma-ru-u₂-ma $immarūma
+@form an-na-am-ru $annamru
+@form an-na-me-er $annamer
+@form a-mu-ru $āmuru
+@form a-mu-ur-ma $āmurma
+@form lu-mu-ur $lūmur
+@form ni-ma-ar $nīmar
+@form ni-mu-ur-ma $nīmurma
+@form i-im-ma-ra $immara
+@form a-ma-ri-ka $amārika
+@form lu-mur $lūmur
+@form i-ta-am-ru $ītamru
+@form a-ma-ri $amāri
+@form ni-in-na-am-ru $ninnamru
+@form ta-am-ma-ar $tammar
+@form ta-am-ma-ru $tammaru
+@form ta-mu-ur $tāmur
+@form a-mu-ru-u₂ $āmuru
+@form lu-un-na-we-er-ma $lunnawerma
+@sense V investigate
+@sense V meet
+@sense V see
+@sense N seeing
+@sense V inspect
+@sense N reading
+@sense V read
+@end entry
+
++@entry āmiru [seer] N
+@form a-me-ru-ia $āmerūya
+@sense N who sees
+@end entry
+
++@entry ammatu [forearm] N
+@form KUŠ₃ $ammatī
+@sense N cubit
+@end entry
+
++@entry ammatu [unit] N
+@form am-ma-tim $ammatim
+@sense N cubit
+@end entry
+
++@entry ammīni [why?] QP
+@form am-mi-nim $ammīnim
+@form a-mi-ni $ammīni
+@form am-mi-in $ammīn
+@form am-mi-ni $ammīni
+@sense QP why?
+@end entry
+
++@entry amtu [maid] N
+@form GEME₂ $amtim
+@form SAG.GEME₂ $amtam
+@form a-ma-ti-ki $amātiki
+@form am-ti-šu-u₂ $amtišu
+@form SAG-GEME₂ $amtam
+@form SAG-GEME₂ $amtum
+@form GEME₂-ka-a-ma $amatkama
+@form GEME₂-MEŠ $amātim
+@form GEME₂-ki $amatki
+@form GEME₂-sa₃ $amassa
+@form GEME₂-ti-ia $amtiya
+@form GEME₂-ti-ma-ma-an $amtīmaman
+@form GEME₂-ti $amtī
+@form GEME₂ $amat
+@form GEME₂ $amta
+@form GEME₂ $amtam
+@form GEME₂ $amtum
+@form GEME₂ $amtu
+@sense N female slave
+@sense N maid
+@end entry
+
++@entry amūtu [status of a maid] N
+@form a-mu-ta-am $amūtam
+@sense N status of a maid
+@end entry
+
++@entry ana [to] PRP
+@form a-na $ana
+@form a-du-ri-im $addūrim $(addūrim)
+@form ad-di-na-an $ana $(dinān)
+@sense PRP to
+@sense PRP for
+@sense PRP into
+@end entry
+
+@entry ana harrānim ešēru [take to the road] V
+@parts ana[to]PRP harrānu[way]N ešēru[be(come) straight//get ready]V'V
+@form a-na_har-ra-nim_tu-uš-te-še-er $ana $harrānim $tuštēšer
+@sense V take to the road
+@end entry
+
+@entry ana muhhi [in addition to] PRP
+@parts ana[to]PRP muhhu[skull]N
+@form a-na_mu-uh₂-hi $ana $muhhi
+@sense PRP in addition to
+@end entry
+
+@entry ana pî [according to] PRP
+@parts ana[to]PRP pû[mouth]N
+@form a-na_pi₂-i $ana $pî
+@sense PRP according to
+@end entry
+
+@entry ana ṣēr [toward] PRP
+@parts ana[to]PRP ṣēru[back]N
+@form a-na_ṣe-er $ana $ṣēr
+@form a-na_ṣe-ri-ka $ana $ṣērika
+@form a-na_ṣe-ri-ku-nu $ana $ṣērikunu
+@form a-na_ṣe-ri-ia $ana $ṣēriya
+@sense PRP toward
+@end entry
+
++@entry anāku [I] IP
+@form e-na-ku $enāku
+@form a-na-ku $anāku
+@form a-na-ku-ma $anākuma
+@form a-na-ku-u₂ $anāku
+@form a-na-ku-ma-mi $anākumami
+@form a-na-ku-u₂-ma $anākuma
+@sense IP I
+@end entry
+
++@entry annikīam [here] AV
+@form an-ni-ki-a-am $annikīam
+@form an-ni-ki-am $annikīam
+@form an-ni-ki-a-a-am $annikīam
+@form a-na-ki-am $annakīam
+@sense AV here
+@end entry
+
++@entry annîš [here] AV
+@form an-ni-iš-ma $annîšma
+@form an-ni-iš $annîš
+@sense AV hither
+@end entry
+
++@entry annu [(word of) consent] N
+@form a-an-na $anna
+@form a-an-ni $anni
+@form an-nam $annam
+@sense N (word of) consent
+@end entry
+
++@entry annû [this] DP
+@form an-ni-tam $annītam
+@form an-ni-tim $annītim
+@form an-ne₂-e-em $annêm
+@form an-ne₂-em $annêm
+@form an-ni-um $annī'um
+@form an-nu-tum $annūtum
+@form an-ni-a-am $anniam
+@form an-ni-ta-am $annītam
+@form an-ni-i $annî
+@form an-nu-u₂ $annû
+@form a-an-ni-i-im $annîm
+@form a-an-ni-im $annîm
+@form a-ni-im $annîm
+@form an-nu-u₂-tum $annûtum
+@sense DP this
+@end entry
+
++@entry annumma [now] AV
+@form a-nu-um $annum
+@sense AV now
+@end entry
+
++@entry anumma [now] AV
+@form a-nu-um-ma $anumma
+@form a-nu-um-ma-a $anumma
+@form a-nu-ma $anumma
+@sense AV now
+@end entry
+
++@entry apālu [pay] V
+@form a-pa-li-im $apālim
+@form ta-pu-la-an-ni-ma $tāpulannima
+@form ta-pu-la-an-ni $tāpulanni
+@form šu-pu-la-ta $šūpulāta
+@form a-ap-pa-al-ka $appalka
+@form a-ap-pa-al-ma $appalma
+@form a-pu-ul $āpul
+@form ap-pa-al-ma $appalma
+@form lu-pu-ul $lūpul
+@form a-pu-ul-šu $āpulšu
+@form a-pa-li-šu-nu $apālišunu
+@form li-pu-ul-šu-nu-ti $līpulšunūti
+@form a-pa-li $apāli
+@form i-ip-pa-la-an-ni $ippalanni
+@form li-ta-pa-al-ka $lītappalka
+@sense N paying
+@sense V answer
+@sense V pay
+@sense N compensating
+@sense V compensate
+@end entry
+
++@entry aplūtu [status of heir] N
+@form ap-lu-ti $aplūti
+@form ap-lu-ut $aplūt
+@form ap-lu-tum $aplūtum
+@sense N inheritance
+@sense N status of heir
+@end entry
+
++@entry appatu [bridle] N
+@form a-pa-ti $appati
+@sense N bridle
+@end entry
+
++@entry apputtu [please] J
+@form ap-pu-tum $apputtu
+@sense J please
+@end entry
+
++@entry apputtu [please!] J
+@form a-pu-tum $apputtum
+@sense J please!
+@end entry
+
++@entry aqdamu [former time] N
+@form aq-da-mi $aqdamī
+@sense N former time
+@end entry
+
++@entry arhiš [quickly] AV
+@form ar-hi-iš $arhiš
+@sense AV quickly
+@end entry
+
++@entry arhu [cow] N
+@form AB₂ $arhu
+@sense N cow
+@end entry
+
++@entry arku [long] AJ
+@form ar-ka-at $arkat
+@sense AJ long
+@end entry
+
++@entry arnu [guilt] N
+@form a-ra-an-šu-ma $aranšuma
+@form ar-na-am $arnam
+@sense N sin
+@sense N fault
+@end entry
+
++@entry asīru [captive] N
+@form {lu₂}a-si-rum $asīrum
+@sense N captive
+@end entry
+
++@entry assinnu [(male cultic prostitute)] N
+@form as-si₂-in-nu $assinnu
+@sense N (male cultic prostitute)
+@end entry
+
++@entry assukku [sling-stone] N
+@form as-su₂-ku-um $assukkum
+@sense N sling-stone
+@end entry
+
++@entry assurri [(if) perchance] AV
+@form a-su₂-ri-i-ma $assurrima
+@sense AV perhaps
+@end entry
+
++@entry ašar [where] SBJ
+@form a-šar $ašar
+@form a-ša-ar $ašar
+@sense MOD if
+@sense SBJ wherever
+@end entry
+
++@entry ašariš [there] AV
+@form a-ša-ri-iš $ašariš
+@sense AV there
+@end entry
+
++@entry ašrakīam [there] AV
+@form aš₂-ra-ki-am $ašrakīam
+@sense AV there
+@end entry
+
++@entry ašrānu [there] AV
+@form a-ša-ra-nu-um $ašarānum
+@sense AV from there
+@end entry
+
++@entry aššatu [wife] N
+@form a-ša-at-ka $aššatka
+@sense N wife
+@end entry
+
++@entry aššu [because] SBJ
+@form aš-šum $aššum
+@form aš-šu-mi $aššumi
+@form aš-šu-mi-ia $aššumiya
+@form aš-šum-ia $aššumiya
+@form aš-šum-mi-ia $aššumiya
+@form a-šu-mi $aššumi
+@form aš-šu-um $aššum
+@sense PRP concerning
+@sense PRP because of
+@sense PRP for the sake of
+@end entry
+
++@entry athûtu [partnership] N
+@form at-hu-ut-ka $athûtka
+@form at-hu-tam $athûtam
+@sense N partnership
+@sense N brotherhood
+@end entry
+
++@entry attā [you] IP
+@form at-ta-ma $attāma
+@form at-ta-a-ma $attāma
+@form at-ta $attā
+@form a-ta $attā
+@sense IP you
+@end entry
+
++@entry attī [you] IP
+@form at-ti $attī
+@form at-ti-i-ma $attīma
+@sense IP you
+@end entry
+
++@entry attunu [you] IP
+@form at-tu-nu-u₂ $attunu
+@form at-tu-nu $attunu
+@sense IP you
+@end entry
+
++@entry awātu [word] N
+@form a-wa-a-tum $awâtum
+@form a-wa-ti-ki-na $awâtīkina
+@form a-wa-ti-šu-nu $awātišunu
+@form a-wa-ti-šu-nu $awâtišunu
+@form a-wa-tum $awātum
+@form a-wa-ti $awātī
+@form a-wa-tim $awātim
+@form a-wa-te $awâte
+@form a-wa-at-ka₃ $awātka
+@form a-wa-ti-ša $awātiša
+@form a-wa-ti-ka₃ $awâtika
+@form a-wa-ti $awâtī
+@form a-wa-ti-im $awâtim
+@sense N matter
+@sense N statement
+@sense N word
+@sense N decision
+@end entry
+
++@entry awīltu [woman] N
+@form a-wi-il-ti $awīlti
+@sense N woman
+@end entry
+
++@entry awīlu [man] N
+@form LU₂ $awīl
+@form LU₂ $awīlû
+@form a-wi-lam $awīlam
+@form a-wi-le-e $awīlê
+@form a-wi-lim $awīlim
+@form a-wi-lum $awīlum
+@form LU₂-MEŠ $awīlī
+@form LU₂-MEŠ $awīlê
+@form LU₂ $awīlê
+@form a-wi-lu-um $awīlum
+@form LU₂-MEŠ $awīlû
+@form a-wi-lu-u₂ $awīlû
+@sense N man
+@end entry
+
++@entry awû [speak] V
+@form at-wu-iš $atwū'iš
+@form i-ta-wu-u₂ $ītawwû
+@sense N discussing
+@sense V speak
+@end entry
+
++@entry ay [not] MOD
+@form e $ē
+@form a-ia $ay
+@form ia $ay
+@sense MOD not
+@end entry
+
++@entry ayyû [which?] QP
+@form a-i-tum $ayyītum
+@sense QP which?
+@end entry
+
++@entry azugallu [chief physician] N
+@form A.ZU.GAL $azugallim
+@sense N chief physician
+@end entry
+
+@letter B
+
++@entry babālu [carry] V
+@form tu-ba-a-la $tubbalā
+@sense V carry on
+@end entry
+
++@entry bābtu [city quarter] N
+@form ba-ab-ti-im $bābtim
+@form ba-ab-ti-šu $bābtišu
+@sense N city quarter
+@end entry
+
++@entry bābu [gate] N
+@form KA₂ $bāb
+@form ba-ab $bāb
+@sense N gate
+@end entry
+
++@entry balālu [mix (up)] V
+@form li-ib-ta-al-li-il-ma $libtallilma
+@sense V be mixed
+@end entry
+
++@entry balāṭu [life] N
+@form ba-la-ṭi $balāṭi
+@sense N life
+@end entry
+
++@entry balāṭu [live] V
+@form li-ib-ta-al-li-iṭ $libtalliṭ
+@form li-ba-al-li-iṭ-ka $liballiṭka
+@form li-ba-al-li-iṭ-ki $liballiṭki
+@form li-ba-al-li-ṭu₂-ka $liballiṭūka
+@form li-ba-al-li-ṭu₂-ki $liballiṭūki
+@form li-ba-al-li-ṭu₂-ku-nu-ti $liballiṭūkunūti
+@form li-ba-al-li-ṭu₂-u₂-ka $liballiṭūka
+@form li-ba-al-li-ṭu₂ $liballiṭū
+@form li-ba-al-li-ṭu₃-ki $liballiṭūki
+@form li-ba-al-li-ṭu₃-u₂-ki $liballiṭūki
+@form u₂-ba-al-la-ṭu₂-šu-nu-ti $uballaṭušunūti
+@form u₂-ba-al-la-ṭu₂-šu $uballaṭušu
+@form u₂-ba-al-la-ṭu₂ $uballaṭu
+@form u₂-ba-al-la-ṭu₂-šu $uballaṭušu
+@form u₂-ba-li-iṭ $uballiṭ
+@form li-ba-al-li-ṭu₃-ka $liballiṭūka
+@form ba-la-ṭi $balāṭi
+@form li-ba-li-ṭu₂-ki $liballiṭūki
+@form li-ba-al-li-ṭu₃-u₂-ka $liballiṭūka
+@form li-ba-li-ṭu₂-ka $liballiṭūka
+@form li-ba-al-li₂-iṭ-ka $liballiṭka
+@sense V be saved
+@sense V keep alive
+@sense V live
+@sense N living
+@end entry
+
++@entry balṭu [alive] AJ
+@form ba-al-ṭa-a-ta $balṭāta
+@form ba-al-ṭa-tu-nu $balṭātunu
+@form ba-al-ṭa{KU}-ta $balṭāta
+@form ba-al-ṭu₂ $balṭu
+@form ba-li-iṭ $baliṭ
+@form ba-al-ṭa-ta $balṭāta
+@sense AJ alive
+@end entry
+
++@entry balṭūtu [state of being alive] N
+@form ba-al-ṭu₂-ti-ia $balṭūtiya
+@sense N state of being alive
+@end entry
+
++@entry balu [without] PRP
+@form ba-lum-ma-a $balummâ
+@form ba-lum $balum
+@form ba-lu-šu $balušu
+@sense PRP without
+@end entry
+
++@entry bāmtu [half] NU
+@form ba-ma-as-su₂ $bāmassu
+@sense NU half
+@end entry
+
++@entry bānû [creator] N
+@form ba-ni-ka $bānika
+@form ba-ni-ka $bānîka
+@sense N creator
+@end entry
+
++@entry baqāru [claim] V
+@form ba-qa₂-ri-im $baqārim
+@form ib-qu₂-ru $ibqurū
+@form ib-qu₂-ru $ibquru
+@form ib-ta-aq-ru-ni-ni $ibtaqrūninni
+@sense N claiming
+@sense V claim
+@end entry
+
++@entry bārû [diviner] N
+@form MAŠ₂.ŠU.GID₂.GID₂ $bārû
+@form MAŠ₂.ŠU.GID₂.GID₂ $bārî
+@sense N diviner
+@end entry
+
++@entry bâru [appear] V
+@form bu-ur $būr
+@sense V convict
+@end entry
+
++@entry bāšītu [what is present] N
+@form ba-ši-ti-ku-nu $bāšītikunu
+@form ba-ši-it $bāšīt
+@sense N goods
+@sense N possession
+@end entry
+
++@entry bâšu [be(come) ashamed] V
+@form i-ba-aš $ibâš
+@sense V be(come) ashamed
+@end entry
+
++@entry bašû [be] V
+@form i-ba-aš-ši-i $ibašši
+@form i-ba-aš-šu $ibaššû
+@form i-ba-aš-ši $ibašši
+@form ib-ba-aš-šu-u₂ $ibaššû
+@form ib-ba-ši-a $ibaššiā
+@form ib-ši $ibši
+@form ab-ba-šu-u₂ $abbašû
+@form ib-ba-šu-u₂ $ibbašû
+@form i-ba-aš-šu-u₂ $ibaššû
+@form ib-ba-ši-ma $ibaššima
+@form i-ba-aš-ši-i-ma $ibaššima
+@form i-ba-ši $ibašši
+@form i-ba-aš-ši-i $ibaššî
+@sense V be
+@sense V become
+@end entry
+
++@entry batāqu [cut off] V
+@form li-ba-at-ti-iq-ši $libattiqši
+@sense V stop
+@end entry
+
++@entry baṭālu [cease] V
+@form ta-ba-ṭi₃-il $tabaṭṭil
+@form ta-ba-ṭi-il $tabaṭṭil
+@sense V be(come) inactive
+@sense V cease
+@end entry
+
++@entry bēltu [lady] N
+@form be-el-ti-ia-ma $bēltiyama
+@form be-el-ti-ša $bēltiša
+@form be-le-et-ki $bēletki
+@form be-el-ti-ia $bēltiya
+@form be-el-ti $bēltī
+@sense N lady
+@end entry
+
++@entry bēlu [lord] N
+@form be-li₂ $bēlī
+@form be-li₂-ku-nu $bēlikunu
+@form be-el-ki $bēlki
+@form be-li-ša $bēliša
+@form be-li₂-a $bēliya
+@form be-li₂-ia-ma $bēliyama
+@form be-li₂-šu $bēlišu
+@form be-el $bēl
+@form be-li₂-ia $bēliya
+@form be-li-ni $bēlini
+@form be-li₂ $bēli
+@form be₂-e-li₂-ia $bēliya
+@form be₂-e-li₂ $bēlī
+@sense N lord
+@sense N master
+@sense N owner
+@end entry
+
++@entry bêlu [rule (over)] V
+@form šu-te-be-el $šutebēl
+@sense V lay claim
+@end entry
+
++@entry berû [be hungry] V
+@form be-e-ri $berî
+@form ib-te-e-ri $ibteri
+@form ni-be₂-ri $niberri
+@sense N being hungry
+@sense V be hungry
+@end entry
+
++@entry berû [hungry] AJ
+@form be₂-ru-u₂ $berû
+@sense AJ hungry
+@end entry
+
++@entry biātu [spend the night] V
+@form i-ba-a-at $ibât
+@sense V spend the night
+@end entry
+
++@entry biltu [load] N
+@form GU₂ $biltam
+@form GU₂.UN $bilat
+@form GU₂ $bilat
+@form bi-il-ta-am $biltam
+@sense N talent
+@sense N tribute
+@end entry
+
++@entry bītu [house] N
+@form E₂-ti-ka $bītika
+@form bi-ti-ia $bītiya
+@form bi-tim $bītim
+@form E₂ $bītam
+@form bi-it $bīt
+@form bi-ta-am $bītam
+@form E₂ $bītim
+@form E₂ $bīt
+@form E₂-ia $bītiya
+@form bi-ti $bīti
+@form bi-ti $bītī
+@form bi-i-tim $bītim
+@sense N estate
+@sense N house
+@sense N temple
+@end entry
+
++@entry biyatiya [(meaning unknown)] N
+@form bi-ia-ti-ia $biyatiya
+@sense N (meaning unknown)
+@end entry
+
++@entry būdu [shoulder] N
+@form bu-di₃-ka₃ $būdika
+@sense N shoulder
+@end entry
+
++@entry būlu [animals] N
+@form bu-li-im $būlim
+@form bu-la-a-am $būlam
+@sense N livestock
+@end entry
+
++@entry buqlu [malt] N
+@form bu-uq-li $buqlī
+@sense N malt
+@end entry
+
+@letter D
+
++@entry dabābu [speak] V
+@form u₂-ša-ad-ba-ba-an-ni-ma $ušadbabannima
+@form i-da-ab-bu-ub $idabbub
+@form da-ba-ab $dabāb
+@sense V litigate
+@sense V negotiate
+@sense N litigation
+@end entry
+
++@entry dabbu [spoken] AJ
+@form da-ab-ba-ku $dabbāku
+@sense AJ spoken
+@end entry
+
++@entry dâku [kill] V
+@form a-du-uk-šu-nu-ti-ma $adūkšunūtima
+@sense V beat
+@end entry
+
++@entry damāqu [be(come) good] V
+@form u₂-da-mi-iq $udammiq
+@form tu-da-ma-qu₂-u₂ $tudammaqu
+@sense V do a favor
+@sense V card
+@end entry
+
++@entry damiqtu [good fortune] N
+@form da-mi-iq-ti $damiqti
+@form da-mi-iq-tim $damiqtu
+@form da-mi-iq-tim $damiqtim
+@sense N good fortune
+@end entry
+
++@entry damqu [good] AJ
+@form dam-qi₂-im $damqim
+@form da-mi-iq-ti-ka $damiqtika
+@form SAG₁₀ $damqum
+@form SIG₅ $damqim
+@form da-am-qa₂-a-ti $damqāti
+@sense AJ good
+@sense N good fortune
+@sense N carded wool
+@end entry
+
++@entry dāmu [blood] N
+@form da-mu-ka₃ $dāmūka
+@sense N blood
+@end entry
+
++@entry danānu [be(come) strong] V
+@form du-un-ni-na $dunninā
+@form u₂-da-an-na-nam-ma $udannanamma
+@form u₂-da-ni-nam-ma $udanninamma
+@form du-ni-na-a $dunninā
+@form u₂-da-na-an $udannan
+@form u₂-da-ni-nu-na $udanninuna
+@sense V fortify
+@sense V be(come) strong
+@sense V do forcefully
+@sense V strengthen
+@end entry
+
++@entry dannatu [fortified (place)] N
+@form da-na-tim $dannatim
+@form da-an-na-tim $dannātim
+@form da-na-at $dannat
+@form da-na-tum $dannatum
+@sense N fortress
+@sense N fortified (place)
+@sense N hardship
+@end entry
+
++@entry dannu [strong] AJ
+@form da-an-na $dannā
+@form da-an-na-a $dannā
+@form da-na-at $dannat
+@form da-na-ku $dannāku
+@form dan-na-at $dannat
+@form dan-nam $dannam
+@sense AJ strong
+@end entry
+
++@entry dāriš [for ever] AV
+@form da-re-eš $dāreš
+@form da-ri-iš $dāriš
+@sense AV for ever
+@end entry
+
++@entry dārītu [perpetuity] N
+@form da-ri-a-tim $dāriātim
+@sense N perpetuity
+@end entry
+
++@entry dārû [lasting] AJ
+@form da-ri-a-ta $dāriāta
+@form da-ri-a-tu-nu $dāriātunu
+@form da-ri $dāri
+@sense AJ lasting
+@sense AV lasting
+@sense AV for ever
+@end entry
+
++@entry dāṣtu [treachery] N
+@form da-aṣ-tum-ma $dāṣtumma
+@sense N treachery
+@end entry
+
++@entry dayyānu [judge] N
+@form DI.KUD-MEŠ-ma $dayyānīma
+@form DI.KUD-MEŠ $dayyānī
+@form DI.KU₅ $dayyānum
+@form DI.KUD-MEŠ $dayyānū
+@form da-ia-ni-ia $dayyānīya
+@sense N judge
+@end entry
+
++@entry diānu [judge] V
+@form i-di-nu $idīnū
+@form i-di-nu-šu-nu-ti-ma $idīnūšunūtima
+@form li-di-nu-ku-nu-ti $lidīnūkunūti
+@sense V judge
+@end entry
+
++@entry diāšu [tread down] V
+@form di-a-ši-im $diāšim
+@sense N threshing
+@end entry
+
++@entry dibbatu [argument] N
+@form di-ib-ba-tim $dibbatim
+@sense N argument
+@end entry
+
++@entry dimtu [tower] N
+@form AN.ZA.GAR₃ $dimtim
+@form {geš}di-ma-ti-im $dimātim
+@sense N tower
+@end entry
+
++@entry dinānu [substitution] N
+@form ad-di-na-an $(ana) $dinān
+@sense N substitution
+@end entry
+
++@entry dīnu [legal decision] N
+@form di-nam $dīnam
+@form di₃-in-šu₅ $dīnšu
+@form di-in-ma $dīnma
+@form di-in-ša $dīnša
+@form di-ni-im $dīnim
+@sense N judgment
+@sense N case
+@end entry
+
++@entry dullu [trouble] N
+@form du-ul-lum $dullum
+@sense N work
+@end entry
+
++@entry dummuqu [good quality] AJ
+@form du-um-mu-qa₂ $dummuqā
+@sense AJ good quality
+@end entry
+
++@entry dunnunu [strengthened] AJ
+@form du-un-nu-na $dunnunā
+@sense AJ strengthened
+@end entry
+
++@entry duppuru [move away] V
+@form u₂-da-pa-ar $udappar
+@sense V move away
+@end entry
+
++@entry dūru [(city) wall] N
+@form BAD₃-ra $dūra
+@form BAD₃-ri-im $dūrim
+@form BAD₃-um $dūrum
+@form BAD₃ $dūram
+@form BAD₃ $dūrim
+@form a-du-ri-im $(addūrim) $addūrim
+@form du₂-ri-im $dūrim
+@sense N (city) wall
+@end entry
+
+@letter E
+
++@entry ebēru [cross over] V
+@form i-bi-ru-nim $ībirūnim
+@sense V cross over
+@end entry
+
++@entry ebūru [harvest] N
+@form e-bu-ri $ebūrī
+@form e-bu-ru-um-ma $ebūrumma
+@sense N harvest
+@end entry
+
++@entry edēlu [shut] V
+@form i-di-il-ma $īdilma
+@sense V shut
+@end entry
+
++@entry edû [know] V
+@form i-de-e $īde
+@form i-de $īde
+@form ti-de-a $tīdeā
+@form i-du-šu $īdûšu
+@form i-du-u₂ $īdû
+@form ti-du-u₂ $tīdû
+@form ti-de-e $tīde
+@form ti-i-da $tīda
+@form ti-de₄ $tīde
+@form ti-de $tīde
+@sense V know
+@end entry
+
++@entry egû [be(come) lazy] V
+@form te-ge-a $teggeā
+@form te-gi-a $teggiā
+@form te-eg-gi-a $teggiā
+@form te-gi-ši-na-ši-im $teggišināšim
+@form te-gi $teggi
+@form te-eg-ge-a $teggeā
+@form te-ge $tegge
+@form te-ge-ši-na-ši-im $teggešināšim
+@form te-ge₄-a $taggeā
+@form te-ge₄-a $teggeā
+@sense V neglect
+@end entry
+
++@entry ēkallu [palace] N
+@form E₂.GAL $ēkallam
+@form E₂.GAL $ēkal
+@form e-ka₃-la-am $ēkallam
+@sense N palace
+@end entry
+
++@entry eleppu [ship] N
+@form MA₂-HI.A $eleppētim
+@form {giš}MA₂ $eleppam
+@form {giš}MA₂ $eleppim
+@form {giš}MA₂ $eleppiya
+@form {giš}MA₂ $eleppum
+@form {lu₂}{geš}MA₂ $(ša) $eleppim
+@sense N boat
+@end entry
+
++@entry eli [on] PRP
+@form e-li-šu $elišu
+@form i-li-ia $iliya
+@form e-li-ka $elika
+@form e-li $eli
+@form e-li-i-a $eliya
+@sense PRP on
+@sense PRP over
+@sense PRP more than
+@sense PRP against
+@end entry
+
++@entry ellu [pure] AJ
+@form el-le-tam $elletam
+@sense AJ pure
+@end entry
+
++@entry elû [go up] V
+@form i-te-li-a-am $īteliam
+@form i-te₉-li-a-am $īteliam
+@form i-li-a-am-ma $īliamma
+@form il-li-ma $illima
+@form i-te-li $īteli
+@sense V come up
+@sense V go up
+@sense V take over
+@end entry
+
++@entry ēm [wherever] XP
+@form e-em $ēm
+@sense XP wherever
+@end entry
+
++@entry emēdu [lean on] V
+@form i-mi-du-ma $īmidūma
+@sense V take refuge
+@end entry
+
++@entry emētu [mother-in-law] N
+@form e-mi-ti $emītī
+@sense N mother-in-law
+@end entry
+
++@entry emūqu [strength] N
+@form e-mu-qa₂-a-am $emūqam
+@form e-mu-qi₂-šu $emūqīšu
+@form e-mu-qu₂-um $emūqum
+@sense N force
+@sense N forces
+@sense N foce
+@end entry
+
++@entry entu [high priestess] N
+@form e-en-tum $ēntum
+@form e-en-tum $entum
+@sense N high priestess
+@end entry
+
++@entry epēšu [do] V
+@form e-pe-šu-ku-nu-ši-im $eppešukunūšim
+@form ep-ša-ni-im-ma $epšānimma
+@form ep-ša-nim{+im}-ma $epšānimma
+@form li-pu-šu-u₂-ma $līpušūma
+@form ni-pe-e-eš $nippeš
+@form te-pe-e-ša $teppešā
+@form e-pu-uš-ma $epušma
+@form e-pu-ša-ak-kum $ēpušakkum
+@form i-pu-šu $ippušū
+@form in-ne-ep-pu-uš $inneppuš
+@form lu-pu-uš $lūpuš
+@form ip-pu-uš-ma $ippušma
+@form ni-te-ep-šu-u₂ $nītepuš
+@form e-pe₂-ši-im $epēšim
+@form e-pu-uš $ēpuš
+@form e-pu-uš₂ $eppuš
+@form e-pu-šu $ēpušu
+@form te-pe₃-eš $teppeš
+@form te-pu-ši $teppušī
+@form li-pu-uš $līpuš
+@form li-pu-šu $līpušū
+@form e-pe-ši-im $epēšim
+@form lu-pu-ša-ak-ku $lūpušakku
+@form te-pu-ša-am $teppušam
+@form e-pe₂-ši-im-ma $epēšimma
+@form i-ip-pu-šu $ippušū
+@form li-pu-šu-ni $līpušūni
+@form e-pe₂-šu-u₂-um $epēšum
+@form ep-ša-a $epšā
+@form ni-pu-uš $nīpuš
+@form te-pe₂-ša-a $teppešā
+@sense V do
+@sense V make
+@sense N doing
+@sense V work
+@sense N working
+@end entry
+
++@entry epēšu [make] V
+@form i-pu-uš $īpuš
+@form e-pe₂-eš₁₅ $eppeš
+@sense V make
+@sense V do
+@end entry
+
++@entry eqlu [field] N
+@form A-ŠA₃ $eqlim
+@form A.ŠA₃-am $eqlam
+@form A.ŠA₃-ia $eqliya
+@form A.ŠA₃-im $eqlim
+@form A.ŠA₃-lam $eqlam
+@form A.ŠA₃-li $eqlī
+@form A.ŠA₃-lim $eqlim
+@form A.ŠA₃ $eqli
+@form A-ŠA₃ $eqel
+@form A.ŠA₃ $eqel
+@form AŠA₅-li-im $eqlim
+@form AŠA₅-li $eqli
+@sense N field
+@end entry
+
++@entry erbu [income] N
+@form er-bi $erbi
+@sense N income
+@end entry
+
++@entry erēbu [enter] V
+@form li-iš-te-ri-bu-u₂ $lišterribū
+@form šu-ri-ba $šūribā
+@form e-re-eb $erēb
+@form u₂-še-ri-ib-šu-nu-ti-ma $ušēribšunūtima
+@form te-er-ru-ub $terrub
+@form i-te-re-eb $ītereb
+@form i-ru-ub $īrub
+@form i-ru-bu-ma $īrubūma
+@form šu-ru-bi-im $šūrubim
+@form i-ru-bu $īrubū
+@form e-te-ru-ub $ēterub
+@form e-ru-ba-aš-šu $ērubaššu
+@form tu-še₂₀-re-ma $tušerremma
+@sense V bring in
+@sense V enter
+@sense N returning
+@sense V invade
+@end entry
+
++@entry erēšu [sow] V
+@form li-ri-šu $līrišu
+@sense V sow
+@end entry
+
++@entry Erištum [1] N
+@form {m}e-ri-iš-tum $Erištum
+@sense N 1
+@end entry
+
++@entry ernittu [triumph] N
+@form er-ni-ti $ernitti
+@sense N threat
+@end entry
+
++@entry erṣetu [earth] N
+@form er-ṣe-et $erṣet
+@sense N land
+@end entry
+
++@entry esēhu [assign] V
+@form lu-si₂-ih-ma $lūsihma
+@sense V assign
+@end entry
+
++@entry esēru [exact payment] V
+@form i-se-ru-šu-nu-ši-im $īserūšunūšim
+@form i-te-es-ra-an-ni $ītesranni
+@sense V exact payment
+@sense V put pressure on
+@end entry
+
++@entry êšam [whither?] QP
+@form e-ša-am-ma $êšamma
+@sense QP whither?
+@end entry
+
++@entry ešēru [be(come) straight] V
+@form tu-uš-te-še-er $tuštēšer
+@sense V get ready
+@end entry
+
++@entry eṭēru [pay] V
+@form li-iṭ-ru-ni-ši-im $līṭrūniššim
+@form e-ṭe₄-er $eṭer
+@sense V pay
+@sense V take away
+@end entry
+
++@entry ezēbu [leave] V
+@form e-ez-ba-a $ezbā
+@form nu-še-zi-ib-šu-nu-ti $nušēzibšunūti
+@form e-ez-ba-am $ezbâm
+@form e-zi-ba-ak-kum $ēzibakkum
+@form iz-zi-ib-šu $izzibšu
+@form u₂-še-zi-ib $ušēzib
+@form i-zi-ba-am $īzibam
+@form e-zi-ba-am-ma $ēzibamma
+@sense V leave
+@sense V draw up
+@sense V save
+@sense V set aside
+@end entry
+
++@entry ezib [except] PRP
+@form e-zi-ib $ezib
+@sense PRP except
+@end entry
+
+@letter G
+
++@entry gallābu [barber] N
+@form ŠU.I $gallābum
+@sense N barber
+@end entry
+
++@entry gamāru [bring to conclusion] V
+@form ig-da-am-ru-u₂ $igdamrū
+@form gu-um-ra-a-ni-im $gumrānim
+@form i-ga-am-ma-ar $igammar
+@form ni-ig-mu-ur $nigmur
+@form u₂-ga-ma-ra-ki-im $ugammarakkim
+@form ug-da-am-mi-ru-nim $ugdammirūnim
+@form gu-um-ra-am $gumram
+@sense V bring to conclusion
+@sense V fully provide for
+@sense V complete
+@sense V settle
+@sense V be completely assembled
+@end entry
+
++@entry gamir [complete] AJ
+@form ga-me-er $gamer
+@sense AJ complete
+@end entry
+
++@entry gamrru [complete] AJ
+@form ga-mi-ir $gamir
+@sense AJ complete
+@end entry
+
++@entry gamru [complete] AJ
+@form ga-am-ra $gamra
+@form ga-am-ra-am $gamram
+@form ga-me-er $gamer
+@form ga-mi-ir $gamir
+@form ga-me₂-er $gamer
+@sense AJ complete
+@end entry
+
++@entry gullulu [sin] V
+@form u₂-ga-al-li-il-ma $ugallil
+@sense V sin
+@end entry
+
++@entry guzalû [chair-carrier] N
+@form GU.ZA.LA₂ $guzalîm
+@sense N chair-carrier
+@end entry
+
+@letter H
+
++@entry habālu [be(come) in debt] V
+@form i-ha-ba-al $ihabbal
+@sense V be(come) in debt
+@end entry
+
++@entry habālu [bind] V
+@form ha-ba-li-im $habālim
+@sense N binding
+@end entry
+
++@entry habālu [do wrong] V
+@form ih-ha-ab-ba-al $ihhabbal
+@sense V be wronged
+@end entry
+
++@entry habāṣu [be distended] V
+@form a-ha-ab-bu-uṣ₄ $ahabbuṣ
+@sense V be bursting
+@end entry
+
++@entry habātu [rob] V
+@form u₂-ha-ab-bi-tu $uhabbitū
+@sense V plunder
+@end entry
+
++@entry hābilu [criminal] N
+@form ha-bi-lim $hābilim
+@sense N criminal
+@end entry
+
++@entry habtu [robbed] AJ
+@form ha-ab-ta-ku $habtāku
+@sense AJ robbed
+@end entry
+
++@entry hadû [be(come) joyful] V
+@form ah-du $ahdu
+@sense V be(come) joyful
+@end entry
+
++@entry hadû [joy] N
+@form ha-di-im $hadîm
+@sense N joy
+@end entry
+
++@entry hadû [joyful] AJ
+@form ha-di $hadi
+@sense AJ joyful
+@end entry
+
++@entry halālu [creep] V
+@form at-ta-ah-la-al-ma $attahlalma
+@sense V skulk
+@end entry
+
++@entry halāqu [be lost] V
+@form i-ha-al-li-iq $ihalliq
+@form ih-li-qu₂ $ihliqū
+@form ih-ta-al-qu₂ $ihtalqū
+@form u₂-ha-al-la-aq $uhallaq
+@form i-ha-al-li-iq-ki $ihalliqki
+@sense V be lost
+@sense V destroy
+@sense V escape
+@end entry
+
++@entry halāqu [be(come) lost] V
+@form tu-ha-la-aq $tuhallaq
+@sense V destroy
+@end entry
+
++@entry halqu [lost] AJ
+@form ha-li-iq $haliq
+@sense AJ ruined
+@sense AJ missing
+@end entry
+
++@entry halṣu [fortress] N
+@form ha-al-ṣum $halṣum
+@form ha-al-ṣi₂-ku-nu $halṣīkunu
+@sense N district
+@sense N distric
+@end entry
+
++@entry hamāṭu [hasten] V
+@form hu-um-ṭa $humṭā
+@form li-ih-mu-ṭa₂-am $lihmuṭam
+@form hu-um-ṭa₂-a $humtā
+@sense V hurry
+@end entry
+
++@entry hamištu [five days] N
+@form ha-mi-iš-tu-u₂-mi $hamištūmī
+@sense N five days
+@end entry
+
++@entry hamšīšu [five times] AV
+@form ha-am-ši-i-šu $hamšīšu
+@sense AV five times
+@end entry
+
++@entry harrānu [way] N
+@form har-ra-nim $harrānim
+@sense N journey
+@end entry
+
++@entry hāṣeru [helper] N
+@form ha-ṣe-ra-at $hāṣerāt
+@sense N helper
+@end entry
+
++@entry hašāhu [need] V
+@form i-ha-aš-še-eh $ihaššeh
+@form i-ha-aš-ši-ih $ihašših
+@form a-ha-ši-ih $ahašših
+@sense V need
+@sense V want
+@end entry
+
++@entry haṭṭu [stick] N
+@form PA.PA-MEŠ-ma $(šūt) $haṭṭātimma
+@form PA.PA-MEŠ $(šūt) $haṭṭātim
+@form ha-aṭ-ṭa-am $haṭṭam
+@sense N scepter
+@sense N stick
+@end entry
+
++@entry haṭû [do wrong] V
+@form i-ih-ṭi-a-am-ma $ihṭiamma
+@sense V do wrong
+@end entry
+
++@entry hazannu [alliaceous vegetable] N
+@form HA.ZA.NU.UM{sar} $hazannum
+@sense N garlic
+@end entry
+
++@entry hepû [break] V
+@form u₂-ha-ap-pi₂-ši-ma $uhappišima
+@form hi-pe-e $hipe
+@sense V break
+@end entry
+
++@entry herû [dig] V
+@form hi-ri-a $hiriā
+@form he-ri-a $heriā
+@sense V dig
+@end entry
+
++@entry hiāṭu [supervise] V
+@form i-hi-ṭa₂-am-ma $ihīṭamma
+@sense V investigate
+@end entry
+
++@entry hibiltu [wrongdoing] N
+@form hi-bi-il-ta-ki $hibiltaki
+@sense N damages
+@end entry
+
++@entry hiliṣṣu [strongroom] N
+@form i-hi-li-ṣi-ka $(ih) $hiliṣṣika
+@sense N strongroom
+@end entry
+
++@entry hirītu [ditch] N
+@form hi-ri-tam₂ $hirītam
+@form he-ri-tam₂ $herītam
+@sense N moat
+@end entry
+
++@entry hiṭītu [shortfall] N
+@form hi-ṭe₄-tum $hiṭētum
+@sense N fault
+@end entry
+
++@entry hīṭu [error] N
+@form hi-ṭi-im $hīṭim
+@sense N fault
+@end entry
+
++@entry hurāṣu [gold] N
+@form KU₃.SIG₁₇ $hurāṣim
+@sense N gold
+@end entry
+
+@letter I
+
++@entry i [may] MOD
+@form i $i
+@sense MOD may
+@end entry
+
++@entry idu [arm] N
+@form i-di $idi
+@form i-di-ia $idiya
+@form i-di-šu-nu $idīšunu
+@form i-di $idī
+@form i-di-šu $idīšu
+@sense N arm
+@sense N side
+@sense X side
+@sense N wage
+@end entry
+
++@entry idû [knonw] V
+@form ti-de-e $tīde
+@sense V knonw
+@end entry
+
++@entry idû [know] V
+@form li-de₉-šu $līdešu
+@form te-de-e $idû
+@form ti-de-e $tīde
+@sense V know
+@end entry
+
++@entry igāru [wall] N
+@form IZ.ZI-HI.A $igārātu
+@sense N wall
+@end entry
+
++@entry ikû [field] N
+@form GAN₂-ma $ikuma
+@form GAN₂ $iku
+@sense N unit
+@end entry
+
++@entry ilku [(state) service] N
+@form il-ka-am $ilkam
+@form il-ki-im $ilkim
+@sense N (state) service
+@end entry
+
++@entry ilu [god] N
+@form DINGIR-lum $ilum
+@form DINGIR $ilu
+@form i-li-ka $ilika
+@form DINGIR-MEŠ $ilī
+@form DINGIR-ka $ilka
+@form DINGIR $ilim
+@sense N god
+@end entry
+
++@entry ilūtu [godhead] N
+@form e-lu-ti-i-šu $elūtišu
+@sense N godhead
+@end entry
+
++@entry imittu [right side] N
+@form i-mi-it-ti $imitti
+@sense N right side
+@end entry
+
++@entry immertu [ewe] N
+@form i-me-er-ta-am $immertam
+@form i-me₂-re-ti-im $immerētim
+@sense N ewe
+@end entry
+
++@entry immeru [sheep] N
+@form UDU.NITA₂-HI.A $immerī
+@form UDU.ŠE-HI.A $immerī $(marūtim)
+@form im-me-ri $immerī
+@form i-me-ra-am $immeram
+@form i-me₂-ra-am $immeram
+@form i-me₂-ri-im $immerim
+@form i-me₂-ri $immēri
+@form im-me-er $immer
+@sense N sheep
+@end entry
+
++@entry ina [in] PRP
+@form i-na $ina
+@form i₃-na $ina
+@form i-li-bi-im $il $(libbim)
+@form i-hi-li-ṣi-ka $ih $(hiliṣṣika)
+@form i-qa₂-ti-im $ina $(qātim)
+@form ŠA₃.BI.TA $ina $(libbim)
+@sense PRP in
+@sense PRP from
+@end entry
+
+@entry ina muhhi [review palace] N
+@parts ina[in]PRP muhhu[skull]N
+@form i-na_mu-uh₂ $ina $muh
+@form i-na_mu-hi-i $ina $muhhi
+@form i-na_mu-uh₂-hi $ina $muhhi
+@form i-na_mu-uh-hi-ša $ina $muhhiša
+@form i-na_mu-uh-hi-šu-nu $ina $muhhišunu
+@form i-na_mu-uh₂-hi-ia $ina $muhhiya
+@sense PRP on
+@end entry
+
++@entry inanna [now] AV
+@form i-na-an-na-ma $inannama
+@form i-na-an-na $inanna
+@sense AV now
+@end entry
+
++@entry inītu [team of plough-oxen] N
+@form i-ni-a-ti $iniāti
+@form i-ni-a-tu-u₂ $iniātû
+@form i-ni-ti $inītī
+@sense N team of plough-oxen
+@end entry
+
++@entry īnu [eye] N
+@form i-in-ka $īnka
+@form i-na-a-a $īnāya
+@form i-ni-ka $īnīka
+@form i-ni-i $īnī
+@sense N eye
+@end entry
+
++@entry inūma [when] SBJ
+@form i-nu-u₂-ma $inūma
+@form i-nu-ma $inūma
+@form a-nu-ma $anūma
+@sense SBJ when
+@end entry
+
++@entry ipru [ration] N
+@form ip-ra-am $ipram
+@sense N ration
+@end entry
+
++@entry isinnu [festival] N
+@form EZEN $isinnim
+@sense N festival
+@end entry
+
++@entry isqu [lot] N
+@form is₃-qi₂-ša $isqīša
+@sense N lot
+@end entry
+
++@entry išariš [correctly] AV
+@form i-ša-ri-iš $išariš
+@sense AV correctly
+@end entry
+
++@entry išātu [fire] N
+@form i-ša-ta-a-am $išātam
+@form i-ša-ta-am $išātam
+@form i-ša-tu-um $išātum
+@form i-ša-tum $išātum
+@sense N fire
+@end entry
+
++@entry ištēn [one] NU
+@form iš-te-en $ištēn
+@form iš-ti-at-ma $ištiatma
+@form iš-ti-at $ištiat
+@sense NU one
+@end entry
+
++@entry ištiššu [once] AV
+@form iš-ti-šu-u₂ $ištiššu
+@form iš-ti-šu-ma $ištiššuma
+@sense AV once
+@end entry
+
++@entry ištu [from] PRP
+@form iš-tu $ištu
+@sense SBJ after
+@sense SBJ since
+@sense PRP since
+@end entry
+
++@entry ištuma [if indeed] CNJ
+@form iš-tu-u₂-ma $ištuma
+@sense CNJ if indeed
+@end entry
+
++@entry īšu [have] V
+@form i-šu-u₂ $īšû
+@sense V have
+@end entry
+
++@entry išû [have] V
+@form ti-šu $tīšu
+@form i-šu $īšu
+@form i-šu-u₂ $īšu
+@form i-šu-u₂ $īšû
+@form i-šu-u₂ $išû
+@form i-šu-ma $īšuma
+@sense V have
+@end entry
+
++@entry itinnu [builder] N
+@form ŠITIM-MEŠ $itinnī
+@sense N builder
+@end entry
+
++@entry itti [with] PRP
+@form it-ti-ia $ittiya
+@form it-ti-ka $ittika
+@form it-ti $itti
+@form it-ti-šu $ittišu
+@form i-ti $itti
+@sense PRP with
+@end entry
+
++@entry ittu [sign] N
+@form i-tu-um $ittum
+@sense N sign
+@end entry
+
++@entry izuzzu [stand] V
+@form iz-za-az-za $izzazzā
+@form li-zi-za-ma $lizzizāma
+@form i-zi-iz-ma $izizma
+@form iz-za-az-zu $izzazzū
+@form a-za-az $azzaz
+@form li-zi-za $lizzizā
+@sense V stay
+@sense V take up service
+@sense V stand
+@end entry
+
+@letter K
+
++@entry kakkabu [star] N
+@form ka-ak-ka-bi $kakkabī
+@sense N star
+@end entry
+
++@entry kakku [stick] N
+@form {giš}TUKUL-HI.A $kakkī
+@sense N weapon
+@end entry
+
++@entry kalāma [all (of it)] XP
+@form ka₃-la-ma $kalāma
+@sense XP all (of it)
+@end entry
+
++@entry kalbānātu [(a siege instrument)] N
+@form {giš}IGI.GAL₂-na-ti $kalbānāti
+@sense N (a siege instrument)
+@end entry
+
++@entry kalû [detained] AJ
+@form ka-lu-u₂ $kalû
+@form ka-le-ku $kalêku
+@sense AJ detained
+@end entry
+
++@entry kalû [hold (back)] V
+@form ik-ta-lu-u₂-ši $iktalūši
+@form ik-la-a-ma $iklama
+@form ak-la-ši-ma $aklašima
+@form ik-ta-la $iktala
+@form ta-ka-la-šu-nu-ši-im $takallaššunūšim
+@form ta-ak-la $takla
+@form ta-ka₃-la-aš₂-šu $takallâššu
+@form ta-ka-la-aš-šum $takallâššum
+@form ak-la-ku-um $aklakum
+@sense V hold (back)
+@sense V detain
+@end entry
+
++@entry kalû [hold (back)] N
+@form ta-ka₃-la-am $takallâm
+@sense N hold (back)
+@end entry
+
++@entry kalû [hold back] V
+@form ki-le-e-ši $kilēši
+@form ta-ka₃-la-am $takallâm
+@sense V detain
+@sense V hold back
+@end entry
+
++@entry kalû [lamentation-priest] N
+@form GALA $kala
+@sense N lamentation-priest
+@end entry
+
++@entry kalû [totality] N
+@form ka-la-ša-a-ma $kalâšama
+@form ka-li-šu $kalîšu
+@form ka-la-šu-u₂ $kalûšu
+@form ka-lu-ša $kalûša
+@form ka-lu-šu $kalûšu
+@form ka-li-šu-nu $kališunu
+@form ka-la $kala
+@form ka₃-li-ša $kalîšina
+@form ka₃-lu-šu $kalûšu
+@sense N totality
+@end entry
+
++@entry kamāsu [gather in] V
+@form a-ka-am-mi-is-su₂-nu-ti $akammissunūti
+@form a-ka-am-mi-is-su₂ $akammissu
+@sense V collect
+@sense V gather in
+@end entry
+
++@entry kanāku [seal] V
+@form ak-nu-ka-am-ma $aknukamma
+@form ku-un-kam-ma $kunkamma
+@form ku-un-ka-am-ma $kunkamma
+@form ku-nu-uk $kunuk
+@sense V seal
+@end entry
+
++@entry kanīku [sealed document] N
+@form ka-ni-ik-šu $kanīkšu
+@form ka-ni-ik $kanīk
+@form ka-ni-kam $kanīkam
+@form ka-ni-ki $kanīki
+@form ka-ni-ki $kanīkī
+@sense N sealed document
+@sense N receipt
+@end entry
+
++@entry kânu [be(come) permanent] V
+@form nu-ki-in $nukīn
+@sense V assign
+@end entry
+
++@entry kânu [permanent] AJ
+@form ki-in-ni $kinni
+@sense AJ secure
+@end entry
+
++@entry kapru [village] N
+@form ka-ap-ra-tim-ma $kaprātimma
+@sense N village
+@end entry
+
++@entry karābu [pray] V
+@form i-ka-ra-ba-ak-kum $ikarrabakkum
+@form lu-uk-ta-ar-ra-ab $luktarrab
+@form li-ik-ru-bu $likrubū
+@sense V bless
+@sense V pray
+@end entry
+
++@entry karāšu [military camp] N
+@form ka-ra-aš $karāš
+@form ka-ra-ši₂-im $karāšim
+@sense N military camp
+@end entry
+
++@entry kargullû [market value] N
+@form ka-ar-gu-ul-lu $kargullû
+@sense N market value
+@end entry
+
++@entry karû [grain-heap] N
+@form GUR-em $karêm
+@sense N grain-heap
+@end entry
+
++@entry kāru [quay] N
+@form ka-ar $kār
+@sense N chamber of commerce
+@end entry
+
++@entry kaspu [silver] N
+@form KU₃.BABBAR $kaspam
+@form KU₃.BABBAR-am $kaspam
+@form KU₃.BABBAR-im $kaspim
+@form KU₃.BABBAR $kaspum
+@form KU₃.BABBAR $kaspim
+@form KU₃{+am} $kaspamX
+@form KU₃.BABBAR-a-am $kaspam
+@form ka-as-pa-am $kaspam
+@form KU₃.BABBAR-ka $kasapka
+@sense N silver
+@end entry
+
++@entry kāsu [cup] N
+@form GAL $kās
+@form GAL $kāsū
+@sense N cup
+@end entry
+
++@entry kaṣāru [tie] V
+@form li-iš-ta-ak-ṣi₂-ru-u₂-ma $lištakṣirūma
+@form u₂-ka₃-aṣ-ṣa-ru $ukaṣṣaru
+@sense V gather up
+@sense V tie
+@end entry
+
++@entry kašādu [reach] V
+@form u₂-ša-ak-ši-dam $ušakšidam
+@form i-ka-aš-ša-ad $ikaššad
+@form i-ka-ša-du-ma $ikaššadūma
+@form ak-šu-dam $akšudam
+@form u₂-ša-ak-ša-da-am $ušakšadam
+@form u₂-ša-ak-ša-da $ušakšada
+@form šu-uk-ši-dam $šukšidam
+@sense V make reach
+@sense V reach
+@end entry
+
++@entry kašāru [restore] V
+@form ku-še-ra-a $kuššerā
+@form li-ka-ši-ru-u₂ $likašširū
+@form li-ka-ši-ru-šu $likašširūšu
+@sense V restore
+@end entry
+
++@entry kašû [increase] V
+@form ku-uš-ši $kušši
+@sense V profit
+@end entry
+
++@entry kâta [you] IP
+@form ka-ta $kâta
+@form ka-ti $kâti
+@sense IP you
+@end entry
+
++@entry kayyāniš [constantly] AV
+@form ka-a-a-ni-iš $kayyāniš
+@form ka-ia-ni-iš $kayyāniš
+@sense AV constantly
+@end entry
+
++@entry kayyānu [constant] AJ
+@form ka-ia-an $kayyān
+@sense AJ constant
+@end entry
+
++@entry kī [like] PRP
+@form ki $kī
+@form ki-i $kī
+@sense PRP according to
+@sense AV thus
+@sense PRP like
+@end entry
+
++@entry kīam [so] AV
+@form ki-a-am $kīam
+@form ki-a-am-ma $kīamma
+@form ki-am $kīam
+@sense AV thus
+@end entry
+
++@entry kīdānu [outside] AV
+@form ki-da₂-num₂ $kīdānum
+@sense AV outside
+@end entry
+
++@entry kīdu [outside] N
+@form ki-di-im $kīdim
+@sense N countryside
+@end entry
+
++@entry kīma [like] PRP
+@form ki-ma $kīma
+@form ki-ma $kīma
+@form ki-i-ma $kīma
+@sense PRP like
+@sense SBJ as
+@sense SBJ that
+@sense SBJ when
+@sense SBJ like
+@end entry
+
++@entry kirû [orchard] N
+@form {giš}KIRI₆ $kirî
+@form {giš}SAR-a-am $kirâm
+@form {giš}SAR-i-im $kirîm
+@form {giš}SAR $kirîm
+@sense N orchard
+@end entry
+
++@entry kišādu [neck] N
+@form ki-ša-ad $kišād
+@form ki-ša-di₃ $kišādī
+@sense N bank
+@sense N neck
+@end entry
+
++@entry kittu [steadiness] N
+@form ki-na-tim $kinātim
+@form ki-tim $kittim
+@form ki-it-tim $kittim
+@form ki-i-tim $kittim
+@sense N truth
+@end entry
+
++@entry kû [yours] PP
+@form ka-ta-a-an $kattam
+@sense PP yours
+@end entry
+
++@entry kubbutu [very heavy] AJ
+@form ku-bi-ta-ni $kubbitanni
+@sense AJ important
+@end entry
+
++@entry kūdanu [mule] N
+@form ku-da-ni-im $kūdanim
+@sense N mule
+@end entry
+
++@entry kullizu [ox-driver] N
+@form ŠA₃.GU₄-HI.A $kullizī
+@sense N ox-driver
+@end entry
+
++@entry kullu [hold] V
+@form u₂-ka-al-ma $ukālma
+@form li-ki-lam-ma $likīlamma
+@form li-ki-il $likīl
+@form ki-il-la $killa
+@form u₂-ka-al-lu $ukallū
+@form uk-ta-al $uktāl
+@sense V hold
+@sense V have ready
+@sense V look after
+@sense V retain
+@end entry
+
++@entry kullumu [show] V
+@form ku-ul-li-im-šu-nu-ti-i-ma $kullimšunūtima
+@form ku-ul-li-im-šu-nu-u₂-ti-ma $kullimšunūtima
+@form tu-ka-la-am-ma $tukallamma
+@form tu-ka-li-im-šu-nu-u₂-ti $tukallimšunūti
+@form lu-ka-al-lim-ku-nu-ti $lukallimkunūti
+@form ku-ul-li-im $kullim
+@form li-ka-li-mu-ka₃ $likallimūka
+@sense V show
+@end entry
+
++@entry kunukku [seal] N
+@form ku-nu-uk-ki-ka $kunukkika
+@form ku-nu-ki $kunukki
+@form ku-nu-ki-ia $kunukkiya
+@form ku-nu-uk $kunuk
+@form ku-nu-ka-tim $kunukkātim
+@form ku-nu-ki-ia $kunukkīya
+@form ku-nu-ki-ka $kunukkika
+@form ku-nu-kam $kunukkam
+@sense N seal
+@sense N sealed tablet
+@sense N sealed tablets
+@sense N sealed document
+@end entry
+
++@entry kunūšim [to you] IP
+@form ku-nu-ši-im $kunūšim
+@sense IP to you
+@end entry
+
++@entry kurummatu [food allocation] N
+@form ku-ru-ma-ti-ši-na $kurummātišina
+@form ŠUKU-ti $kurummatī
+@form ŠUKU $kurummat
+@form ŠUKU $kurummatam
+@sense N food allocation
+@end entry
+
++@entry kussû [chair] N
+@form {giš}GU.ZA $kussi
+@sense N throne
+@end entry
+
++@entry kuššuru [repaired] AJ
+@form ku-šu-ur $kuššur
+@sense AJ repaired
+@end entry
+
+@letter L
+
++@entry lā [not] MOD
+@form la $lā
+@sense MOD not
+@end entry
+
++@entry labāru [be(come) old] V
+@form li-la-ab-bi-ru $lilabbirū
+@sense V be(come) old
+@end entry
+
++@entry labīru [old] AJ
+@form la-bi-ri-im $labīrim
+@sense AJ old
+@end entry
+
++@entry lalû [plenty] N
+@form la-le-e $lalê
+@sense N plenty
+@end entry
+
++@entry lāma [before] SBJ
+@form la-ma $lāma
+@sense SBJ before
+@end entry
+
++@entry lamādu [learn] V
+@form li-im-da-am-ma $limdamma
+@form li-im-da-ni-im-ma $limdānimma
+@form li-im-da-ni-im $limdānim
+@form la-ma-di-ka $lamādika
+@form u₂-la-mi-id-ma $ulammidma
+@sense V learn
+@sense N informing
+@sense V inform
+@end entry
+
++@entry lamahuššû [(a ceremonial garment)] N
+@form {tug₂}NIG₂.LAM₂ $lamahuššûm
+@sense N (a ceremonial garment)
+@end entry
+
++@entry lamassu [(female) tutelary deity] N
+@form la-ma-as-sa₃-ka $lamassaka
+@form la-ma-as-si₂ $lamassi
+@form la-ma-as-su₂ $lamassū
+@form la-ma-sa₃-ka $lamassaka
+@sense N (female) tutelary deity
+@end entry
+
++@entry lapātu [touch] V
+@form i-la-pa-at $ilappat
+@form ta-la-pa-ta $talappatā
+@form šu-ul-pu-tam $šulputam
+@form u₂-ša-al-pa-at $ušalpat
+@form il-pu-tu $ilputu
+@form uš-ta-al-pi₂-it $uštalpit
+@form lu-pu-ut $luput
+@form la-pa-a-tam $lapātam
+@form i-la-ap-pa-at $ilappat
+@sense V touch
+@sense N ruining
+@sense V ruin
+@sense V be destroyed
+@sense N taking hold of
+@end entry
+
++@entry laputtû [lieutenant] N
+@form NU.BANDA₃-MEŠ $laputtû
+@sense N lieutenant
+@end entry
+
++@entry lāsimu [swift] N
+@form {lu₂}KAŠ₄.E $lāsimim
+@form {lu₂}KAŠ₄.E $lāsimī
+@sense N courier
+@end entry
+
++@entry lawītu [encirclement] N
+@form li-wi-tum $liwītum
+@sense N siege
+@end entry
+
++@entry lawû [surround] V
+@form li-il-la-wi $lillawwi
+@form il-wu-u₂ $ilwû
+@sense V surround
+@end entry
+
++@entry lawû [surrounded] AJ
+@form la-wi-i $lawi
+@sense AJ besieged
+@end entry
+
++@entry leʾû [be able] V
+@form i-le-hu-u₂ $ileʾʾû
+@sense V be able
+@end entry
+
++@entry leʾû [be(come) able] V
+@form i-le-ku-um $ilēkum
+@sense V be(come) able
+@end entry
+
++@entry lemēnu [be(come) bad] V
+@form tu-le-me-en-šum $tulemmenšum
+@sense V be(come) bad
+@end entry
+
++@entry lemnu [bad] AJ
+@form le-em-nu $lemnū
+@sense AJ bad
+@end entry
+
++@entry lemuttu [evil] N
+@form le-em-ne₂-ti-a $lemnētiya
+@sense N evil
+@end entry
+
++@entry leqû [take] V
+@form le-qe₂-em-ma $leqêmma
+@form te-el-te-qi₂ $telteqi
+@form el-qe₂-ma $elqema
+@form el-qu₂-u₂ $elqû
+@form il-qu₂-u₂-ma $ilqûma
+@form il-qu₂-u₂ $ilqû
+@form li-il-qu₂-ni-im $lilqûnim
+@form li-qe₂-e-ma $liqema
+@form li-qe₂ $liqe
+@form lu-ul-qi₃-ma $lulqima
+@form le-qe₂-a-ma $leqeamma
+@form il-qe₂ $ilqe
+@form le-qi₂ $leqi
+@form le-qe₂-e-ma $leqema
+@form le-qe₃-ma $leqema
+@form u₂-še-el-qe₂-e-ka $ušelqeka
+@form il-qu₂-ni-in-ni $ilqûninni
+@sense N taking
+@sense V receive
+@sense V take
+@sense V accept
+@end entry
+
++@entry libbu [heart] N
+@form li-ib-bi-ia $libbiya
+@form li-ib-bu $libbu
+@form li-bi $libbi
+@form li-ib-bi $libbi
+@sense N heart
+@sense N middle
+@end entry
+
++@entry libbu [inner body] N
+@form li-ib-bi-im $libbim
+@form ŠA₃ $libbi
+@form li-ib-ba-ki $libbaki
+@sense AV therein
+@sense N interior
+@sense N heart
+@end entry
+
++@entry libbu [interior] N
+@form i-li-bi-im $(il) $libbim
+@form li-ba-ka $libbaka
+@form ŠA₃ $libbam
+@form ŠA₃.BI.TA $(ina) $libbim
+@sense N heart
+@sense N interior
+@end entry
+
++@entry libittu [mudbrick] N
+@form SIG₄-HI.A $libnātim
+@form li-bi-ti-im $libittim
+@sense N mudbrick
+@end entry
+
++@entry liliu [demon] N
+@form li-li-im-ma $lilîmma
+@sense N demon
+@end entry
+
++@entry limittu [thing(s) notified] N
+@form li-im-da-tim $limdātim
+@sense N promised item(s)
+@end entry
+
++@entry līmu [thousand] NU
+@form LI $līm
+@form li-im $līm
+@sense NU thousand
+@end entry
+
++@entry littu [stool] N
+@form li-it-ti $litti
+@sense N stool
+@end entry
+
++@entry lītu [cow] N
+@form AB₂.GU₄-HI.A $lâtim
+@sense N cow
+@end entry
+
++@entry lītu [power] N
+@form li-it-tim $littim
+@sense N power
+@end entry
+
++@entry lū [may] MOD
+@form lu-u₂ $lū
+@form lu $lū
+@sense MOD may
+@end entry
+
++@entry lubūšu [garment] N
+@form lu-bu-ši-ka $lubušīka
+@sense N garment
+@end entry
+
+@letter M
+
++@entry madādu [measure (out)] V
+@form li-im-ma-di-id $limmadid
+@sense V measure (out)
+@end entry
+
++@entry mādiš [greatly] AV
+@form ma-di-iš $mādiš
+@sense AV greatly
+@end entry
+
++@entry mādu [many] AJ
+@form ma-da-tim-ma $mādātimma
+@form ma-a-ad $mād
+@sense N many things
+@sense AJ much
+@end entry
+
++@entry magrītu [spite(ful act)] N
+@form ma-ag-ri-ta-ma $magrītamma
+@sense N spite(ful act)
+@end entry
+
++@entry magru [willing] AJ
+@form ma-ag-ri-iš $magriš
+@sense AV willingly
+@end entry
+
++@entry mahāru [face] V
+@form mu-uh-ra-a-ma $muhrāma
+@form i-ma-ha-ru-ni-ni $imahharūninni
+@form im-hu-ra-ka $imhurakka
+@form ta-ma-ha-ri $tamahharī
+@form ma-ha-ri-im $mahārim
+@form im-ta-ah-ru $imtahrū
+@sense V face
+@sense V receive
+@sense V happen
+@sense N receiving
+@sense V receiver
+@end entry
+
++@entry mahāṣu [beat] V
+@form im-ta-ha-aṣ $imtahaṣ
+@form im-ha-aṣ $imhaṣ
+@sense V beat
+@sense V defeat
+@sense V destroy
+@end entry
+
++@entry mahīrtu [market price] N
+@form ma-hi-ra-at $mahīrat
+@sense N market price
+@end entry
+
++@entry mahīru [exchange rate] N
+@form ma-hi-ra-tim $mahīrātim
+@sense N exchange rate
+@end entry
+
++@entry mahra [in front] PRP
+@form ma-ah-ra $mahra
+@sense AV earlier
+@end entry
+
++@entry mahru [front] N
+@form mah-ri-ku-nu $mahrikunu
+@form ma-har $mahar
+@form ma-ah-ri-ia $mahriya
+@form ma-ah-ri-ki $mahrika
+@form ma-ha-ar $mahar
+@form IGI $mahar
+@form mah-ri-i-ka $mahrika
+@form ma-ah-ri-ka $mahrika
+@sense PRP before
+@sense N front
+@end entry
+
++@entry mahû [rave] V
+@form im-ma-hi-ma $immahima
+@sense V become frenzied
+@end entry
+
++@entry makkūru [property] N
+@form ma-ak-ku-ur-šu $makkūršu
+@form NIG₂-HI.A $makkūru
+@form ma-ku-ur₂ $makkūr
+@sense N property
+@end entry
+
++@entry mala [as many as] REL
+@form ma-la $mala
+@form ma-li $mali
+@sense REL as many as
+@end entry
+
++@entry malmališ [correspondingly] AV
+@form ma-la-ma-li-iš $malamališ
+@sense AV evenly
+@end entry
+
++@entry malû [be(come) full] V
+@form u₂-ma-lu-u₂-šu $umallûšu
+@form u₂-ma-al-la $umalla
+@form i-ma-la $imalla
+@sense V fill
+@sense V be(come) full
+@end entry
+
++@entry mamman [somebody] XP
+@form ma-am-ma-an $mamman
+@form ma-ma-an $mamman
+@sense XP somebody
+@end entry
+
++@entry mammāna [whosoever] XP
+@form ma-am-ma-na $mammāna
+@form ma-ma-na $mammāna
+@sense XP whosoever
+@end entry
+
++@entry mannu [who?] QP
+@form ma-an-na $manna
+@form ma-an-ni-im $mannim
+@form ma-nu-um $mannum
+@sense QP who?
+@end entry
+
++@entry manTAtu [(meaning unknown)] N
+@form ma-an-TA-tum $manTAtum
+@sense N (meaning unknown)
+@end entry
+
++@entry manû [unit] N
+@form MA.NA $mana
+@form MA.NA $manî
+@form MA.NA $manā
+@sense N unit
+@end entry
+
++@entry maqātu [fall] V
+@form im-qu₂-ut-ma $imqutma
+@form im-qu₂-u₂-tu $imqutu
+@sense V fall
+@sense V fall short
+@end entry
+
++@entry marāṣu [be(come) ill] V
+@form u₂-ša-am-ra-ṣu₂ $ušamraṣū
+@form uš-ta-ma-ra-ṣa-ak-ki $uštamarraṣakki
+@form šu-ta-am-ri-iṣ $šutamriṣ
+@form uš-ta-am-ri-ṣu₂-ni-in-ni $uštamriṣūninni
+@sense V annoy
+@sense V take trouble
+@sense V trouble
+@end entry
+
++@entry marṣu [sick] AJ
+@form ma-ar-ṣa-a-ku-ma $marṣākuma
+@form ma-ar-ṣa-ta-ma $marṣātama
+@sense AJ sick
+@end entry
+
++@entry mārtu [daughter] N
+@form ma-ra-at-ki $māratki
+@form DUMU.MUNUS $mārat
+@form ma-ra-tu-u₂-ia $mārātuya
+@sense N daughter
+@end entry
+
++@entry marû [fattened] AJ
+@form GU₄.ŠE-HI.A $(alpī) $marūtim
+@form UDU.ŠE-HI.A $(immerī) $marūtim
+@sense AJ fattened
+@end entry
+
++@entry māru [son] N
+@form DUMU-MEŠ $mārī
+@form DUMU $mār
+@form ma-ar $mār
+@form ma-ru-ka $mārūka
+@form ma-ri $mārī
+@form DUMU.MEŠ $mārī
+@form ma-ri $māri
+@form DUMU-MEŠ-ma $mārūma
+@sense N son
+@sense N citizen
+@end entry
+
++@entry maṣṣartu [observation] N
+@form ma-ṣa-ra-tu-ka $maṣṣarātūka
+@form ma-aṣ-ṣa-ra-a-tum $maṣṣarātum
+@form ma-ṣa-ar-ti $maṣṣarti
+@form ma-ṣa-ar-tum $maṣṣartum
+@form ma-ṣa-ra-ti-ku-nu $maṣṣarātikunu
+@form ma-ṣa-ra-tu-ka $maṣṣarātuka
+@form ma-ṣa-ra-tu-ku-nu $maṣṣarātukunu
+@sense N watch
+@sense N garrison
+@sense N watvch
+@end entry
+
++@entry maṣṣartu [observe] N
+@form ma-ṣa-ra-ti-ku-nu $maṣṣarātikunu
+@sense N watch
+@end entry
+
++@entry maṣṣartu [watch] N
+@form ma-ṣa-ra-tu-ku-nu $maṣṣarātūkunu
+@form ma-ṣa-ra-ti-ku-nu $maṣṣaeātikunu
+@sense N watch
+@end entry
+
++@entry maṣṣaru [guard] N
+@form ma-aṣ-ṣa-ar $maṣṣar
+@sense N guard
+@end entry
+
++@entry maṣû [correspond] V
+@form tu-ša-am-ṣa-ma $tušamṣâma
+@sense V correspond
+@end entry
+
++@entry maṣû [corresponding] AJ
+@form ma-ṣi₂-i $maṣi
+@sense AJ sufficient
+@end entry
+
++@entry maṣû [sufficient] AJ
+@form ma-a-ṣi₂ $maṣî
+@form ma-ṣi₂-a-tu-nu $maṣiātunu
+@form ma-ṣu₂-u₂ $maṣû
+@form ma-ṣi $maṣi
+@sense AJ sufficient
+@end entry
+
++@entry mašištam [cautionary] AV
+@form ma-ši-iš-ta-am $mašištam
+@form ma-ši-iš-ta-a-am $mašištam
+@sense AV cautionary
+@end entry
+
++@entry maškanu [threshing floor] N
+@form KISLAḪ $maškanim
+@sense N threshing floor
+@end entry
+
++@entry maškanu [threshing floor] V
+@form ma-aš-ka-na $maškana
+@form ma-aš-ka-nu $maškanu
+@sense V fetter
+@end entry
+
++@entry mati [when?] QP
+@form ma-ti $mati
+@sense QP when?
+@end entry
+
++@entry mātu [land] N
+@form ma-a-tim $mātim
+@form ma-ti-im $mātim
+@form ma-tim $mātim
+@form ma-a-at $māt
+@form ma-a-tam $mātam
+@form ma-a-tum $mātum
+@form ma-ti-i-ka $mātika
+@form ma-ti-ia $mātiya
+@form ma-tum $mātum
+@form ma-at $māt
+@sense N land
+@end entry
+
++@entry mâtu [die] V
+@form i-ma-at $imât
+@form i-mu-ut-ma $imūtma
+@form im-tu-ut $imtūt
+@form a-ma-at $amât
+@form uš-ta-mi-tu-ni-in-ni $uštamittūninni
+@sense V die
+@sense V kill
+@end entry
+
++@entry maṭû [be(come) little] V
+@form ta-am-ta-ṭi-a $tamtaṭiā
+@sense V be(come) little
+@end entry
+
++@entry meʾatu [hundred] NU
+@form ME $meʾat
+@form me-at $meʾat
+@form me-e $mē
+@sense NU hundred
+@end entry
+
++@entry mehretu [opposite side] N
+@form me-eh-re-et $mehret
+@sense PRP towards
+@end entry
+
++@entry mehru [copy] N
+@form me₂-eh-ra-am $mehram
+@form me-he-er $meher
+@form me-eh-rum $mehrum
+@sense N reply
+@sense N copy
+@end entry
+
++@entry mimma [anything] XP
+@form mi-im-ma $mimma
+@form mi-i-ma $mimma
+@sense XP something
+@sense XP any
+@sense XP whatever
+@end entry
+
++@entry minde [perhaps] AV
+@form mi-de-e $midde
+@sense AV perhaps
+@end entry
+
++@entry minītu [reckoning] N
+@form mi-ni-a-ti-ia $miniātiya
+@sense N physique
+@end entry
+
++@entry mīnu [what?] QP
+@form mi-nu-um $mīnum
+@form mi-nam $mīnam
+@form mi-ni-im $mīnim
+@form mi-nim $mīnim
+@form mi-nim $mīnu
+@form me-nu-um $mēnum
+@sense QP what?
+@end entry
+
++@entry miqtu [fall] N
+@form mi-iq-ti-šu $miqtišu
+@sense N share
+@end entry
+
++@entry misarru [belt] N
+@form E.IB₂ $misarrim
+@sense N belt
+@end entry
+
++@entry mīšu [disregarded] AJ
+@form mi-ša-ta-an-ni $mīšātanni
+@sense AJ scorned
+@end entry
+
++@entry mītūtu [(state of) death] N
+@form mi-tu-ti-ia $mītūtiya
+@sense N (state of) death
+@end entry
+
++@entry miṭītu [decrease] N
+@form mi-ṭi-su₂ $miṭīssu
+@sense N decrease
+@end entry
+
++@entry mû [water] N
+@form mu-u₂ $mû
+@form me-e $mê
+@sense N water
+@end entry
+
++@entry muhhu [skull] N
+@form mu-hi-i $muhhi
+@form mu-uh-hi-ša $muhhiša
+@form mu-uh-hi-šu-nu $muhhišunu
+@form mu-uh₂-hi-ia $muhhiya
+@form mu-uh₂-hi $muhhi
+@form mu-uh₂ $muh
+@sense N top
+@sense N skull
+@end entry
+
++@entry murṣu [illness] N
+@form mu-ru-uṣ $muruṣ
+@sense N illness
+@end entry
+
++@entry muṣlālu [siesta(-time)] N
+@form mu-uṣ-la-li-im $muṣlālim
+@sense N siesta(-time)
+@end entry
+
++@entry mušākilu [that lets eat] AJ
+@form mu-ša-ki-li $mušākilī
+@sense N fattener
+@end entry
+
++@entry mūšaru [(flower, vegetable) bed] N
+@form SAR $mūšaru
+@sense N unit
+@end entry
+
++@entry mušēzib [saving] AJ
+@form mu-še-zi-ba-am $mušēzibam
+@sense N savior
+@end entry
+
++@entry muškēnu [dependant] N
+@form mu-uš-ke-nim $muškēnim
+@form {lu₂}mu-uš-ke-e-nam $muškēnam
+@sense N commoner
+@sense N dependant
+@end entry
+
++@entry mūšu [night] N
+@form mu-ši-im $mūšim
+@sense N night
+@end entry
+
+@letter N
+
++@entry naʾādu [be attentive] V
+@form u₂-na-ah-hi-id-ka $una''idka
+@form i-na-hi-id $inahhid
+@sense V be attentive
+@sense V worry
+@end entry
+
++@entry naʾādu [be(come) attentive] V
+@form u₂-na-i-du-u₂-ka $unaʾʾiduka
+@form u₂-na-i-da-ka $unaʾʾidakka
+@sense V alert
+@sense V instruct
+@end entry
+
++@entry naʾarruru [go to assist] V
+@form na-ar-ri-ra-am-ma $naʾarriramma
+@sense V go to assist
+@end entry
+
++@entry nabalkutu [cross over] V
+@form ib-ba-al-ki-tu-ma $ibbalkitūma
+@sense V cross over
+@end entry
+
++@entry nadānu [give] V
+@form i-na-ad-di-nu-u₂ $inaddinû
+@form i-na-ad-di-nu $inaddinū
+@form li-id-di-nu $liddinū
+@form a-na-di-nu-šu-nu-ši-im $anaddinušunūšim
+@form id-na-a-ma $idnāma
+@form lu-di-šu-nu-ši-im $luddiššunūšim
+@form ta-na-di-na $tanaddinā
+@form li-in-na-di-in-ma $linnadinma
+@form ad-di-in-ma $addinma
+@form i-di-im-ma $idimma
+@form i-di-in-ma $iddinma
+@form i-di-iš-šum $idiššum
+@form i-na-di-nu $inaddinu
+@form id-di-iš-šu-nu-ši-im $iddiššunūšim
+@form id-di-nam $iddinam
+@form id-di-nu $iddinū
+@form id-na-aš-šum $idnaššum
+@form li-di-nu $liddinū
+@form li-id-di-nu-nim $liddinūnim
+@form ta-ad-di-nu-šum $taddinušum
+@form i-di₃-in $idin
+@form id-di-nam-ma $iddinamma
+@form id-na-nim-ma $idnānimma
+@form lu-di-in-šu $luddinšu
+@form a-na-di₃-in $anaddin
+@form id-di-iš-šu $iddiššu
+@form id-ni $idnī
+@form in-na-ad-nu-šum $innadnūšum
+@form it-ta-di-in $ittadin
+@form ta-ad-di-nu-šu-nu-ši-im $taddinušunūšim
+@form li-in-na-di-in $linnadin
+@form i-di-in $idin
+@form li-ša-ad-di-nu-ni $lišaddinūni
+@form a-na-ad-di-iš-ši $anaddišši
+@form a-na-ad-di-na-ku-nu-ši-im $anaddinakkunūšim
+@form id-di-in-ma $iddinma
+@form id-di-na-aš-ši $iddinašši
+@form i-di-nu $iddinnū
+@form id-nam-ma $idnnamma
+@form na-da-an-šu-nu $nadānšunu
+@form a-na-ad-di-in $anaddin
+@form id-na-aš-šu-nu-ši-ma $idnaššunūšima
+@form na-da-ni-ka $nadānika
+@form a-di-in $addin
+@form i-ta-ad-na-am $ittadnam
+@form ta-na-di-nu $tanaddinu
+@form i-di-šu-um-ma $idišumma
+@sense V give
+@sense V be sold
+@sense V permit
+@sense V collect
+@sense N giving
+@end entry
+
++@entry nadānu [give] N
+@form ta-ad-di-ni $taddinī
+@sense N give
+@end entry
+
++@entry nādinānu [the one who gave] AJ
+@form na-di-na-an $nādinān
+@sense N seller
+@end entry
+
++@entry nadītu [fallow woman] N
+@form LUKUR $nadīt
+@sense N celibate priestess
+@end entry
+
++@entry nadnu [given] AJ
+@form na-ad-nu-u₂-kum $nadnukum
+@sense AJ given
+@end entry
+
++@entry nadû [placed] AJ
+@form na-di-a-ku $nadiāku
+@form ŠUB.BA $nadiam
+@form na-a-di₃ $nadi
+@form na-di-i $nadi
+@sense AJ downcast
+@sense AJ fallow
+@sense AJ deposited
+@sense AJ abandoned
+@end entry
+
++@entry nadû [throw] V
+@form in-na-ad-di₃ $innaddi
+@sense V neglect
+@end entry
+
++@entry nadû [throw (down)] V
+@form i-di-ma $iddima
+@form i-di-a-am-ma $iddiamma
+@form i-di-i-ma $iddima
+@form i-di-i $iddi
+@form i-du-u₂ $iddû
+@form in-na-an-di $innandi
+@form i-na-ad-di $inaddi
+@form id-du-u₂ $iddû
+@form id-di-ma $iddima
+@form i-di-ši-ma $idišima
+@form i-na-du-u₂-ma $inaddûma
+@form ta-na-di-iš $tanaddiš
+@sense V abandon
+@sense V leave
+@sense V throw (down)
+@sense V be neglected
+@sense V knock
+@sense V neglect
+@end entry
+
++@entry nahru [boy] N
+@form na-ah-ri-im $nahrim
+@sense N boy
+@end entry
+
++@entry nakādu [beat] V
+@form i-na-ak-ku-ud $inakkud
+@form ik-ku-du $ikkudu
+@form u₂-na-ki-du-šu $unakkidušu
+@sense V palpitate
+@sense V worry
+@end entry
+
++@entry nakāru [be(come) different] V
+@form li-ki-ir-ma $likkirma
+@sense V be hostile
+@end entry
+
++@entry nakāsu [cut] V
+@form i-ta-ki-is $ittakis
+@sense V cut
+@end entry
+
++@entry nakru [strange] AJ
+@form na-ak-ra-am $nakram
+@form na-ak-rum $nakrum
+@form {lu₂}KUR₂ $nakrī
+@form na-ak-ri-ka $nakrīka
+@form {lu₂}KUR₂ $nakru
+@form {lu₂}KUR₂ $nakrū
+@form na-ak-ru-um $nakrum
+@form na-ka-ar-ma $nakarma
+@sense N enemy
+@sense AJ hostile
+@sense N stranger
+@end entry
+
++@entry napalsuhu [fall to the ground] V
+@form at-ta-pa-al-sa₃-ah $attapalsah
+@sense V fall to the ground
+@end entry
+
++@entry naparkû [cease] V
+@form ip-pa-ar-ku $ipparku
+@sense V cease
+@end entry
+
++@entry naphartu [sum total] N
+@form na-ap-ha-ar-te-šu-nu-u₂ $naphartešunu
+@sense N sum total
+@end entry
+
++@entry napišti [life] N
+@form na-pa-aš₂-ti-ia $napaštiya
+@form na-pa-aš₂-ti $napaštī
+@sense N life
+@end entry
+
++@entry naqû [pour (a libation)] V
+@form li-iq-qi₂ $liqqi
+@sense V pour (a libation)
+@end entry
+
++@entry narkabtu [chariot] N
+@form {geš}GIGIR-HI.A $narkabātim
+@sense N chariot
+@end entry
+
++@entry nāru [river] N
+@form I₇.DA $nārim
+@sense N river
+@end entry
+
++@entry narūqu [leather bag] N
+@form na-ru-qa₂-tim $narūqātim
+@sense N leather bag
+@end entry
+
++@entry nasahu [tear out] V
+@form at-ta-sa-ah $attasah
+@sense V take away
+@end entry
+
++@entry nasāhu [tear out] V
+@form ta-na-sa₃-ha $tanassahā
+@form is-su₂-ha $issuha
+@form li-is-su₂-hu-ma $lissuhūma
+@form at-ta-sa-ah $attasah
+@form as-su₂-ha-am-ma $assuhamma
+@form is-su₂-ha-am-ma $issuhamma
+@sense V tear out
+@sense V move away
+@sense V take away
+@sense V withdraw
+@sense V remove
+@end entry
+
++@entry naṣāru [guard] V
+@form na-ṣa-ri-im $naṣārim
+@form li-iṣ-ṣu₂-ur-ka $liṣṣurka
+@form u₂-ṣu₂-ur $uṣur
+@form u₂-ṣu₂-ur₂ $uṣur
+@form u₂-ṣu₂-ur₃ $uṣur
+@form u₂-ṣu₂-ur-šu $uṣuršu
+@sense N guarding
+@sense V guard
+@end entry
+
++@entry nāṣir [guarding] AJ
+@form na-ṣi-ir-ka $nāṣirka
+@sense AJ guarding
+@end entry
+
++@entry nāṣiru [guarding] AJ
+@form na-ṣi-ir-ka $nāṣirka
+@form na-ṣir{+ir}-ka $nāṣirka
+@form na-ṣi-ir-ka $nāṣirka
+@form na-ṣi-ir-ku-nu $nāṣirkunu
+@form na-ṣi-ir $nāṣir
+@sense AJ guarding
+@sense AJ protective
+@end entry
+
++@entry našāqu [kiss] V
+@form a-na-ši-iq $anaššiq
+@sense V kiss
+@end entry
+
++@entry našpaku [storage vessel] N
+@form na-aš-pa-ka-am $našpakam
+@sense N granary
+@end entry
+
++@entry našparu [messenger] N
+@form NA.AŠ.BAR $našparim
+@sense N envoy
+@end entry
+
++@entry našû [lifted] AJ
+@form na-šu-u₂ $našû
+@sense AJ carrying
+@end entry
+
++@entry naṭû [suitable] AJ
+@form na-ṭu₂-um $naṭûm
+@sense AJ suitable
+@end entry
+
++@entry nazāqu [creak] V
+@form ta-na-az-zi-iq $tanazziq
+@sense V worry
+@end entry
+
++@entry nazqu [vexed] AJ
+@form na-az₂-qa₂-ku $nazqāku
+@sense AJ vexed
+@end entry
+
++@entry neʾrāru [help] N
+@form na-ah-ra-rum $nahrārum
+@sense N help
+@end entry
+
++@entry nebrītu [hunger(-ration)] N
+@form ne₂-eb-ri-ti-ia $nebrītiya
+@form ne₂-eb-ri-tim $nebrītim
+@sense N hunger(-ration)
+@end entry
+
++@entry nēmettu [levy] N
+@form ne₂-me-et-tam $nēmettam
+@sense N (cause for) complaint
+@end entry
+
++@entry nēpeštu [work(manship)] N
+@form ne₂-pe-še₂₀-et $nēpešet
+@sense N activity
+@end entry
+
++@entry nikkassu [account(s)] N
+@form NIG₂.KA₉ $nikkassī
+@sense N account(s)
+@end entry
+
++@entry nindanu [rod] N
+@form NINDA $nindanī
+@sense N unit
+@end entry
+
++@entry nipûtu [debt slave] N
+@form ni-pu-us-su $nipûssu
+@form ni-pu-us₄-su₂ $nipûssu
+@sense N distrainee
+@end entry
+
++@entry nipûtu [debt-slave] N
+@form ni-pa-ti-im $nipâtim
+@form {munus}ni-pa-ti-ia $nipâtīya
+@form ni-pu-su₂ $nipûssu
+@form ni-pa-ti-ia $nipâtiya
+@sense N distrainee
+@end entry
+
++@entry nīqu [offering] N
+@form ni-qi₂-i $nīqu
+@form ni-qu₂-u₂-um $niqûm
+@sense N offering
+@end entry
+
++@entry nīšu [life] N
+@form ni-iš $nīš
+@sense N life
+@end entry
+
++@entry nīšūtu [relatives] N
+@form ni-šu-ti $nīšūtī
+@sense N relatives
+@end entry
+
++@entry nuhatimmu [cook] N
+@form MUHALDIM-MEŠ $nuhatimmī
+@form nu-ha-te-ma-a-am $nuhatemmam
+@form nu-ha-ti-ma-ša $nuhatimmaša
+@sense N cook
+@end entry
+
++@entry nukkudu [concerned] AJ
+@form nu-uk-ku-da-tu-nu-ma $nukkudātunuma
+@sense AJ concerned
+@end entry
+
++@entry nukurtu [enmity] N
+@form ne₂-kur-ti $nekurtī
+@sense N enmity
+@end entry
+
+@letter P
+
++@entry pagru [body] N
+@form pa-ga-ar-ka $pagarka
+@sense RP self
+@end entry
+
++@entry pahāru [gather] V
+@form li-pa-he-er $lipahher
+@form u₂-pa-he-er $upahher
+@form ip-hu-ra-am-ma $iphuramma
+@form i-pa₂-hu-ra-am $ipahhuram
+@sense V gather
+@end entry
+
++@entry pahru [gathered] AJ
+@form pa-hi-ir-ma $pahirma
+@form pe₂-eh-ri-im $pehrim
+@sense AJ gathered
+@sense AJ conscripted
+@end entry
+
++@entry pakku [consideration] N
+@form pa-ak-ka-šu-ma $pakkašuma
+@sense N consideration
+@end entry
+
++@entry palāhu [fear] V
+@form pi-lah₃ $pilah
+@sense V fear
+@end entry
+
++@entry palāku [divide off] V
+@form i-pa-la-ku $ipallakū
+@sense V draw boundary
+@end entry
+
++@entry palāsu [look at] V
+@form i-ta-ap-lu-si-im $itaplusim
+@form i-ta-ap-la-as₂-ma $palāsu
+@sense N looking at
+@sense V look at
+@end entry
+
++@entry palšu [pierced] AJ
+@form pa-al-ša $palšā
+@sense AJ breached
+@end entry
+
++@entry pāna [previously] AV
+@form pa-na $pāna
+@sense AV previously
+@end entry
+
+@entry pānam rašû [make clear] V
+@parts pānu[front]N rašû[acquire]V
+@form pa-nam_šu-ur₂-ši-a-am-ma $pānam $šuršiamma
+@sense V make clear
+@end entry
+
++@entry pānānu [previously] AV
+@form pa-na-nu-um $pānānum
+@sense AV previously
+@end entry
+
++@entry pānītu [earlier (time)] N
+@form pa-ni-tim $pānītim
+@sense N earlier (time)
+@end entry
+
++@entry pānu [front] N
+@form pa-nam $pānam
+@form pa-ni $pāni
+@form pa-an $pān
+@form pa-ni-šu $pānišu
+@form pa-ni-ka $pānīka
+@sense N front
+@sense PRP before
+@sense N face
+@end entry
+
++@entry paqādu [entrust] V
+@form pi₂-iq-da-am-ma $piqdamma
+@form li-ip-pa-qi₂-i-id $lippaqid
+@form a-pa-aq-qi₂-id $apaqqid
+@form ip-qi₂-id-ma $ipqidma
+@form pa-qa₂-di-im $paqādim
+@form ip-qi₂-id $ipqid
+@form pi₂-ta-qu₂-di-im $pitaqqudim
+@sense V entrust
+@sense V be inspected
+@sense V inspect
+@sense N inspecting
+@sense V provision
+@sense N provisioning
+@end entry
+
++@entry paqdu [entrusted] AJ
+@form pa-aq-da-ta $paqdāta
+@sense AJ entrusted
+@end entry
+
++@entry parāru [be dissolved] V
+@form ip-pa-ra-ar $ipparrar
+@sense V be scattered
+@end entry
+
++@entry parāsu [cut (off)] V
+@form ta-ap-ru-si₂ $taprusī
+@form pu-ru-us₂ $purus
+@form pu-ru-us₂-ma $purusma
+@form pu-ru-us-ma $purusma
+@form li-ip-ru-us $liprus
+@sense V find out
+@sense V determine
+@end entry
+
++@entry paršīgu [headdress] N
+@form {tug₂}BAR.SI $paršīgī
+@sense N headdress
+@end entry
+
++@entry paṭāru [loosen] V
+@form pu-ṭu₃-ur-šu-nu-ti-ma $puṭuršunūtima
+@form u₂-pa-ṭe₄-er-šu-ma $upaṭṭeršuma
+@form pu-uṭ-ṭe₄-ra-a-šu-ma $puṭṭerāšuma
+@form ip-ṭu₃-ur-ma $ipṭurma
+@form ap-ṭu₃-ra-am-ma $apṭuramma
+@form pu-uṭ-ra-an-ni $puṭranni
+@form lu-up-ṭu₂-ur $lupṭur
+@sense V release
+@sense V ransom
+@sense V stray
+@sense V move on
+@sense V break open
+@end entry
+
++@entry petû [open] V
+@form ip-pe₂-et-ti $ippetti
+@form i-ip-tu-u₂ $iptû
+@form ip-te $ipte
+@sense V open
+@sense V thresh
+@end entry
+
++@entry pīhātu [responsibility] N
+@form pi₂-ha-at $pīhāt
+@sense N responsibility
+@end entry
+
++@entry pīqat [perhaps] AV
+@form pi₂-qa₂-at $pīqat
+@form pi₂-qa-at $pīqat
+@sense AV perhaps
+@end entry
+
++@entry piqittu [allocation] N
+@form pi-qi₂-it-tim $piqittim
+@sense N inspection
+@end entry
+
++@entry pisiltu [misadventure] N
+@form pi-si₂-il-ti-im $pisiltim
+@sense N misadventure
+@end entry
+
++@entry pû [chaff] N
+@form pe₂-e $pê
+@sense N chaff
+@end entry
+
++@entry pû [mouth] N
+@form pi₂-ki $pîki
+@form pi₂-i $pî
+@form pi₂-ia $pîya
+@form pi₂-šu $pîšu
+@form pi-i-ka $pîka
+@form pi-i $pī
+@form KA-šu $pîšu
+@form pi-ka $pîka
+@sense N instruction
+@sense N mouth
+@sense N word
+@end entry
+
++@entry puhhu [exchange] V
+@form pu-uh-hi $puhhi
+@sense N exchange
+@end entry
+
++@entry pūhu [exchange] N
+@form pu-hi-šu $pūhišu
+@form pu-ha-am $pūham
+@sense N exchange
+@end entry
+
++@entry pullusu [distracted] AJ
+@form pu-ul-lu-sa-ku-ma $pullusāku
+@sense AJ distracted
+@end entry
+
++@entry pulukku [needle] N
+@form pu-lu-kam $pulukkam
+@sense N boundary
+@end entry
+
++@entry pūtu [forehead] N
+@form pu-u₂-ta-am $pūtam
+@sense N forehead
+@end entry
+
++@entry puṭāru [grazing bull?] N
+@form pu-ṭa-ra $puṭāra
+@sense N grazing bull?
+@end entry
+
+@letter Q
+
++@entry qabû [say] V
+@form qi₂-bi₂-ma $qibima
+@form i-qa₂-ab-bi $iqabbi
+@form qa₂-be₂-e $qabê
+@form i-qa₂-ab-bu-u₂ $iqabbû
+@form ta-qa₂-ab-bu-u₂ $taqabbû
+@form aq-bu-kum $aqbûkum
+@form iq-bi-i-ma $iqbima
+@form iq-bu-kum $iqbûkum
+@form li-iq-bi-a-kum-ma $liqbiakkumma
+@form qi₂-bi-šu $qibišu
+@form ta-aq-bi-a-am $taqbiam
+@form u₂-ša-aq-ba-a-ši $ušaqbaši
+@form u₂-ša-aq-bu-ši $ušaqbûši
+@form iq-be₂-e-em $iqbêm
+@form iq-bi-a-am $iqbiam
+@form ta-qa-ab-be₂-e-nim $taqabbênim
+@form li-iq-bi $liqbi
+@form qi₂-bi-am-ma $qibiamma
+@form ta-qa₂-bi-a-am $taqabbiam
+@form iq-bu-ni-a-ši-im $iqbûniʾāšim
+@form qi₂-bi-a-ši-im $qibiāšim
+@form ta-aq-bi-a $taqbiā
+@form qi₂-bi₂-šu-um $qibišum
+@form aq-bi-ku-um $aqbikum
+@form iq-bu-nim $iqbûnim
+@form qi₂-bi-ma $qibima
+@sense V say
+@sense V command
+@sense N saying
+@end entry
+
++@entry qadu [together with] PRP
+@form qa-du $qadu
+@form qa₂-du $qadu
+@sense PRP together with
+@end entry
+
++@entry qalālu [be(come) light] V
+@form uq-ta-al-la-al $uqtallal
+@sense V despise
+@end entry
+
++@entry qâlu [pay attention] V
+@form i-qu₂-ul-lu $iqullū
+@sense V pay attention
+@end entry
+
++@entry qammatu [(a priestess)] N
+@form {f}qa-ma-tum $qammatum
+@sense N shock-head
+@end entry
+
++@entry qanû [reed] N
+@form GI-HI.A $qanî
+@form GI $qan
+@form qa₂-nu-im $qanu'im
+@form qa₂-nu-u₂ $qanû
+@sense N reed
+@sense N arrow
+@end entry
+
++@entry qaqqadu [head] N
+@form qa₂-qa₂-di-ka₄-ma $qaqqadikama
+@sense N head
+@end entry
+
++@entry qaqqaru [ground] N
+@form qa₂-aq-qa₂-ri-im $qaqqarim
+@sense N ground
+@end entry
+
++@entry qātu [hand] N
+@form qa₂-ta-am $qātam
+@form qa₂-a-tim $qātim
+@form qa₂-ti-ku-nu $qātīkunu
+@form qa₂-tam₂ $qātam
+@form qa₂-ti-šu-nu-u₂ $qātīšunu
+@form ŠU-ia-a-ma $qātiyama
+@form qa₂-tam $qātam
+@form qa₂-ti $qāti
+@form qa-ti-ka $qātika
+@form ŠU.DU₃.A $qātātim
+@form qa₂-ta-ti-šu $qātīšu
+@form qa₂-ti-šu $qātišu
+@form qa₂-ti-ka $qātīka
+@form qa₂-at-ku-nu-u₂ $qātkunu
+@form i-qa₂-ti-im $(ina) $qātim
+@form qa₂-at-su₂ $qātšu
+@sense N hand
+@sense N list
+@sense N control
+@end entry
+
++@entry qatû [come to an end] V
+@form qu₂-ut-ti-a-am-x $quttiam
+@form tu-qa₂-ta₂-u₂ $tuqattaʾu
+@sense V complete
+@sense V settle
+@end entry
+
++@entry qiāšu [give] V
+@form i-qi₂-ša-an-ni $iqīšanni
+@sense V give
+@end entry
+
++@entry qubūru [grave] N
+@form qu₂-bu-ur₂ $qubūr
+@form qu₂-bu-ri-im $qubūrim
+@sense N grave
+@sense N funeral
+@end entry
+
++@entry quppu [box] N
+@form qu₂-up-pi₂ $quppī
+@sense N basket
+@end entry
+
++@entry qurrubu [near] AJ
+@form qu₂-ur-ru-ub $qurrub
+@form qu₂-u₂-ru-bu $qurrubū
+@sense AJ near
+@end entry
+
+@letter R
+
++@entry rāʾimu [loving] AJ
+@form ra-i-mi-šu $rāʾimišu
+@form ra-i-im-ka $rāʾimka
+@sense AJ loving
+@end entry
+
++@entry rāʾimūtu [friendship] N
+@form ra-i-mu-tam $rāʾimūtam
+@sense N friendship
+@end entry
+
++@entry rab [chief] N
+@form ru-ub-bu $rubbu
+@form ru-bu $rubbu
+@sense N chief
+@end entry
+
++@entry rabānu [mayor] N
+@form ra-bi₂-a-ni-im $rabiānim
+@sense N mayor
+@end entry
+
++@entry rabāṣu [sit] V
+@form ta-ra-bi-aṣ-ma $tarabbiaṣma
+@sense V lie
+@end entry
+
++@entry rabiānu [mayor] N
+@form ra-bi-a-an $rabiān
+@form ra-bi-a-nu-um $rabiānum
+@form ra-bi₂-a-ni-im $rabiānim
+@form ra-bi-a-nu-u₂ $rabiānū
+@sense N mayor
+@sense N chief
+@end entry
+
++@entry rābiṣu [bailiff] N
+@form ra-bi-ṣa-am $rābiṣam
+@sense N bailiff
+@end entry
+
++@entry rabû [big] AJ
+@form ra-bi-tum $rabītum
+@sense AJ big
+@end entry
+
++@entry ragāmu [shout] V
+@form a-ra-ga-am $araggam
+@sense V sue
+@end entry
+
++@entry rahāṣu [flood] V
+@form ri-hi-iṣ $rihiṣ
+@form li-ir-hi-ṣa-am $lirhiṣam
+@sense V rush
+@end entry
+
++@entry rakābu [ride] V
+@form šu-ur-ki-ib $šurkib
+@form lu-ša-ar-ki-ba-am $lušarkibam
+@sense V load
+@end entry
+
++@entry rakbu [mounted messenger] N
+@form RA₂.GABA $rakbu
+@form RA₂.GABA $rakbū
+@sense N mounted messenger
+@end entry
+
++@entry ramāku [bathe] V
+@form ra-ma-ki-i-ka $ramākika
+@sense N bathing
+@end entry
+
++@entry ramānu [self] RP
+@form ra-ma-ni-ia $ramāniya
+@form ra-ma-ni-ka $ramānika
+@form ra-ma-ni-šu $ramānišu
+@form ra-ma-ni-ka₃ $ramānika
+@sense RP self
+@end entry
+
++@entry râmu [love] V
+@form ta-ra-ma-an-ni $tarāmanni
+@sense V love
+@end entry
+
++@entry rapāsu [beat] V
+@form ra-pa-si-im $rapāsim
+@sense N threshing
+@end entry
+
++@entry rapāšu [be(come) broad] V
+@form li-ir-pi₂-iš $lirpiš
+@sense V be(come) broad
+@end entry
+
++@entry rapšu [wide] AJ
+@form ra-pa₂-aš₂ $rapaš
+@sense AJ wide
+@end entry
+
++@entry rasābu [err] V
+@form ir-ta-as₃-bu-ni-kum $irtasbūnikkum
+@sense V wrongfully assign
+@end entry
+
++@entry rašû [acquire] V
+@form ir-ši $irši
+@form šu-ur₂-ši-a-am-ma $šuršiamma
+@form i-ra-ši $irašši
+@form ta-ra-aš-ši $tarašši
+@form i-ra-aš-ši-i $iraššî
+@sense V acquire
+@sense V complain
+@sense V come to have
+@end entry
+
++@entry raṭbu [damp] AJ
+@form DURU₅ $raṭbūtim
+@form DURU₅ $raṭbum
+@sense AJ damp
+@sense AJ moist
+@end entry
+
++@entry reʾû [pasture] V
+@form ir-te-ʾi₃-a $irteʾiā
+@sense V pasture
+@end entry
+
++@entry rēʾû [shepherd] N
+@form SIPA $rēʾîm
+@sense N shepherd
+@end entry
+
++@entry rēdû [footsoldier] N
+@form AGA.UŠ-MEŠ $rēdû
+@form re-di-i $rēdî
+@sense N footsoldier
+@end entry
+
++@entry redû [accompany] V
+@form šu-ur₂-du $šurdû
+@form li-ir-du-ni-im $lirdûnim
+@sense V march
+@sense V escort
+@end entry
+
++@entry rēṣūtu [help] N
+@form re-ṣu₂-tam $rēṣūtam
+@sense N help
+@end entry
+
++@entry rēšu [head] N
+@form re-eš₁₅ $rēš
+@form re-eš₁₅-ka $rēška
+@form re-eš₁₅ $rēš
+@form re-ši-ka $rēšika
+@form re-ši $rēšī
+@form re-eš $rēš
+@form re-eš-ka $rēška
+@sense N beginning
+@sense N head
+@end entry
+
++@entry rēˀû [shepherd] N
+@form SIPA-MEŠ $rēˀî
+@sense N shepherd
+@end entry
+
++@entry ribbatu [arrears] N
+@form ri-ib-ba-at $ribbat
+@sense N arrears
+@end entry
+
++@entry rigmu [voice] N
+@form ri-gi-im-šu $rigimšu
+@sense N voice
+@end entry
+
++@entry rīqu [empty] AJ
+@form ri-qa₂-am $rīqam
+@form ri-iq-ma $rīqma
+@sense AJ empty
+@sense AJ free
+@end entry
+
++@entry risibtu [mistake] N
+@form ri-si-ib-tim $risibtim
+@sense N mistake
+@end entry
+
++@entry rittamru [(meaning unknown)] N
+@form ri-it-ta-am-ri $rittamrī
+@sense N (meaning unknown)
+@end entry
+
++@entry riṭibtu [wetness] N
+@form ri-ṭi-ib-ti $riṭibtī
+@sense N irrigable fields
+@end entry
+
++@entry rugbu [loft] N
+@form ru-ug-bi $rugbi
+@sense N loft
+@end entry
+
+@letter S
+
++@entry sābû [brewer] N
+@form {lu₂}KURUN₂.NA-MEŠ $sābî
+@sense N brewer
+@end entry
+
++@entry sadru [in order] AJ
+@form sa-di-ir $sadir
+@sense AJ lined up
+@end entry
+
++@entry sahāru [go around] V
+@form is-sa-ah-ra-am $issahram
+@sense V turn toward
+@end entry
+
++@entry sakāpu [push down] V
+@form u₂-sa₃-ka-pu-ši-na-ti $usakkapūšināti
+@sense V drive
+@end entry
+
++@entry salīmu [peace] N
+@form sa-li-ma-tum $salīmātum
+@form sa-li-ma-am $salīmam
+@form sa-li-mu-um-ma $salīmumma
+@form sa-li-mu-um $salīmum
+@sense N peace offer
+@sense N peace treaty
+@end entry
+
++@entry salmu [peaceful] AJ
+@form sa₃-al-mi-im $salmim
+@form sa-al-mu $salmū
+@form sa-lim-ti-ka $salimtika
+@sense N safety
+@sense AJ peaceful
+@sense N ally
+@end entry
+
++@entry samukānu [(a siege implement)] N
+@form {geš}sa₃-mu-ka₃-ni $samukānī
+@sense N (a siege implement)
+@end entry
+
++@entry sanāqu [check] V
+@form su₂-un-ni-iq $sunniq
+@form as₂-ni-qu₂ $asniqu
+@form is-ni-qu₂-nim $isniqūnim
+@sense V check
+@sense V approach
+@end entry
+
++@entry sebû [seven] NU
+@form MU.7(diš).KAM $sebe $(šanāti)
+@sense NU seven
+@end entry
+
++@entry sikkatu [peg] N
+@form si₂-ka-a-tim $sikkātim
+@form si₂-ik-ka-ti-im $sikkātim
+@form si₂-ka-ti-im $sikkātim
+@form si₂-ka-tim $sikkātim
+@form si₂-ka₃-tim $sikkātim
+@sense N peg
+@end entry
+
++@entry sinništu [woman] N
+@form si₂-ni-iš-ta-am $sinništam
+@form si₂-ni-iš-tam₂ $sinništam
+@sense N woman
+@end entry
+
++@entry sīrāšû [brewer] N
+@form si₂-ra-ši-im $sīrāšîm
+@sense N brewer
+@end entry
+
++@entry sissiktu [hem] N
+@form si₂-is-si₂-ik-tam $sissiktam
+@sense N hem
+@end entry
+
++@entry sūtu [seah] N
+@form sa₃-at $sât
+@sense N seah
+@end entry
+
+@letter Ṣ
+
++@entry ṣabātu [1] V
+@form aṣ-ba-tu $aṣbatu
+@sense V 1
+@end entry
+
++@entry ṣabātu [seize] V
+@form i-ṣa-ab-ba-tam $iṣabbatam
+@form li-iṣ-ba-tu $liṣbatū
+@form ṣa-ab-ta-am-ma $ṣabtamma
+@form a-ṣa-ab-ba-at-ma $aṣabbatma
+@form iṣ-ṣa-ab-tu $iṣṣabtū
+@form iṣ-ba-tu-šu-ma $iṣbatūšuma
+@form ta-ṣa-ab-ba-tam $taṣabbatam
+@form i-ṣa-ab-ba-tu $iṣabbatū
+@form aṣ-ba-at-ma $aṣbatma
+@form aṣ-bat $aṣbat
+@form šu-ta-aṣ-bi-ta-am-ma $šutaṣbitamma
+@sense V hold
+@sense V seize
+@sense V prosecute
+@sense V collect
+@end entry
+
++@entry ṣabtu [captured] AJ
+@form ṣa-bi-it $ṣabtu
+@sense AJ confiscated
+@end entry
+
++@entry ṣābu [people] N
+@form ERIN₂-HI.A $ṣābum
+@form ṣa-ba-a-am $ṣābam
+@form ṣa-bi-i-im $ṣābim
+@form ṣa-bi-im $ṣābim
+@form ṣa-bi-šu $ṣābišu
+@form ERIN₂-ia $ṣābiya
+@form ṣa-ba-am $ṣābam
+@form ṣa-bu-um $ṣābum
+@form ERIN₂-HI.A-ka $ṣābīka
+@form ERIN₂-HI.A-ka $ṣābūka
+@form ERIN₂ $ṣābam
+@form ERIN₂-um $ṣābum
+@form ERIN₂ $ṣābim
+@form ERIN₂ $ṣābum
+@form ERIN₂-HI.A $ṣābī
+@form ERIN₂-HI.A $ṣābū
+@sense N troops
+@sense N personnel
+@sense N people
+@end entry
+
++@entry ṣahātu [press] V
+@form i-ṣa-ah-ta-an-ni $iṣṣahtanni
+@form u₃-ṣa-ha-ta-am $uṣahhatam
+@sense V press
+@end entry
+
++@entry ṣaltu [combat] N
+@form ṣi₂-il-tum $ṣiltum
+@sense N quarrel
+@end entry
+
++@entry ṣamādu [tie up] V
+@form ṣi-im-dam-ma $ṣimdamma
+@sense V prepare
+@end entry
+
++@entry ṣapû [soak] V
+@form ṣa-pe₂-e $ṣapê
+@form i-ṣa-ap-pu $iṣappu
+@form ṣu₂-pu-ma $ṣupuma
+@form ṣu₂-pu $ṣupu
+@sense N soaking
+@sense V soak
+@end entry
+
++@entry ṣehertu [(little) girl] N
+@form MUNUS.TUR $ṣehertum
+@sense N (little) girl
+@end entry
+
++@entry ṣehhertu [young girl] AJ
+@form {munus}ṣe-eh-he-er-tim $ṣehhertim
+@form ṣe-eh-he-er-ta $ṣehherta
+@form {f}ṣe-eh-he-er-tim $ṣehhertim
+@sense AJ young girl
+@end entry
+
++@entry ṣehhertu [young girl] N
+@form ṣe-eh-he-ra-tu-ki $ṣehherātuki
+@form ṣe-eh-he-re-tum $ṣehherētum
+@sense N young girl
+@end entry
+
++@entry ṣehru [small] AJ
+@form ṣe-he-er-tum $ṣehertum
+@form ṣe-eh-he-ru-ti-ia $ṣehherūtiya
+@form ṣe-eh-he-ru-tim $ṣehherūtim
+@sense AJ young
+@sense N young
+@end entry
+
++@entry ṣēlu [rib] N
+@form ṣe₂-li-im $ṣēlim
+@sense N wing
+@end entry
+
++@entry ṣēnu [flock] N
+@form U₈.UDU-HI.A $ṣēnī
+@form ṣe-nu $ṣēnu
+@sense N flock
+@end entry
+
++@entry ṣēru [back] N
+@form ṣe-ri-ia $ṣēriya
+@form ṣe-ri-ku-nu $ṣērikunu
+@form ṣe-ri-ka $ṣērika
+@form ṣe-er $ṣēr
+@form ṣe₂-er-ra-am $ṣēram
+@sense N back
+@sense N steppe
+@end entry
+
++@entry ṣibûtu [wish] N
+@form ṣi-bu-tam $ṣibûtam
+@form ṣi-bu-tim $ṣibûtim
+@form ṣi-bu-ut $ṣibût
+@sense N wish
+@end entry
+
++@entry ṣimdatu [regulation] N
+@form ṣi-im-da-tim $ṣimdatim
+@sense N decree
+@end entry
+
++@entry ṣīru [exalted] AJ
+@form MAH $ṣīrim
+@sense AJ exalted
+@end entry
+
++@entry ṣubātu [garment] N
+@form {tug₂}ṣu₂-ba-tam $ṣubātam
+@sense N garment
+@end entry
+
++@entry ṣubātu [textile] N
+@form ṣu₂-ba-tim $ṣubātim
+@form ṣu₂-ba-ta-am $ṣubātam
+@sense N garment
+@end entry
+
++@entry ṣuhartu [girl] N
+@form ṣu₂-ha-ar-ti $ṣuharti
+@form ṣu₂-ha-ar-tum $ṣuhartum
+@form ṣu₂-ha-ra-tum $ṣuharātum
+@form MUNUS.TUR $ṣuharat
+@form ṣu₂-ha-ar-tim $ṣuhartim
+@sense N girl
+@end entry
+
++@entry ṣuhāru [boy] N
+@form ṣu₂-ha-ri-im $ṣuhārim
+@form ṣu-ha-ri $ṣuhāri
+@form ṣu₂-ha-ri-i $ṣuhārî
+@form ṣu₂-ha-re-e $ṣuhārê
+@form ṣu₂-ha-ru-u₂ $ṣuhārû
+@form ṣu₂-ha-ra-am $ṣuhāram
+@sense N employee
+@sense N boy
+@sense N servant
+@end entry
+
++@entry ṣūmu [thirst] N
+@form ṣu₂-mi-im $ṣūmim
+@sense N thirst
+@end entry
+
+@letter Š
+
++@entry ša [of] DET
+@form ša $ša
+@form {lu₂}{geš}MA₂ $ša $(eleppim)
+@sense DET of
+@end entry
+
++@entry ša [who] REL
+@form ša $ša
+@sense REL that
+@end entry
+
++@entry ša [who(m)] REL
+@form ša $ša
+@sense REL that
+@end entry
+
++@entry šadādu [drag] V
+@form iš-da-ad-du-ni-in-ni-ma $išdaddūninnima
+@form iš-ta-da-am $ištaddam
+@sense V drag
+@end entry
+
++@entry šaddaqda [last year] AV
+@form ša-ad-da-aq-dam $šaddaqdam
+@form ša-ad-da-aq-di $šaddaqdi
+@sense AV last year
+@end entry
+
++@entry šadû [mountain] N
+@form ša-di-i $šadî
+@form ša-di-im $šadîm
+@sense N mountain
+@end entry
+
++@entry šahāṭu [jump (on)] V
+@form li-iš-hi-iṭ $lišhiṭ
+@sense V spring up
+@end entry
+
++@entry šahāṭu [jump on] V
+@form ša-ha-ṭi-im $šahātim
+@sense N attacking
+@end entry
+
++@entry šakānu [put] V
+@form i-ša-ka-na-ma $išakkanamma
+@form ta-aš-ta-ak-na $taštaknā
+@form ta-ša-ka-na $tašakkanā
+@form li-iš-ku-un $liškun
+@form iš-ša-ka-an $iššakkan
+@form aš-ta-ka-an $aštakan
+@form iš-ša-ak-na $iššakna
+@form iš-ku-nu $iškunu
+@form iš-ku-un $iškun
+@form šu-ku-un $šukun
+@form šu-uk-na-a $šuknā
+@form li-iš-ku-na-šu-nu-ši-im-ma $liškunaššunūšimma
+@form i-ša-ka-nu $išakkanū
+@form it-ta-aš-ka-an $ittaškan
+@form šu-ku-un-ma $šukumma
+@form šu-uk-na-an-ni $šuknanni
+@form i-ša-ka-nu-u₂ $išakkanu
+@form šu-uk-na-am-ma $šuknamma
+@sense V put
+@sense V appoint
+@sense V place
+@sense X place
+@sense V install
+@sense V arrange
+@sense V lay claim
+@end entry
+
++@entry šaknu [placed] AJ
+@form ša-ak-na-at-ku-nu-ši-im $šaknatkunūšim
+@form ša-ak-nu $šaknu
+@form ša-ak-nu $šaknū
+@form ša-ki-in $šakin
+@sense AJ in place
+@sense AJ placed
+@sense N minion
+@end entry
+
++@entry šalāmu [be(come) healthy] V
+@form li-ša-al-li-im-ši-na-ti $lišallimšināti
+@sense V keep safe
+@end entry
+
++@entry šalāšī- [thrice] AV
+@form ša-la-ši-šu $šalāšīšu
+@sense AV thrice
+@end entry
+
++@entry šalāšu [do for a third time] V
+@form aš-li-iš $ašliš
+@sense V do for a third time
+@end entry
+
++@entry šalmu [intact] AJ
+@form ša-al-ma-a-ta $šalmāta
+@form ša-al-ma-at $šalmat
+@form ša-al-ma-ta $šalmāta
+@form ša-al-ma-tu-nu $šalmātunu
+@form ša-lim $šalim
+@form ša-al-mu $šalmū
+@form ša-al-ma-ku $šalmāku
+@form ša-al-ma-am $šalmam
+@sense AJ healthy
+@sense AJ safe
+@sense AJ well
+@sense AV completely
+@end entry
+
++@entry šâlu [ask] V
+@form a-ša-al-ka $aša''alka
+@form ša-al $šāl
+@form a-ša-al-ma $ašālma
+@form i-ša-lu-ne₂-ti $išallūnêti
+@sense V ask
+@sense V question
+@end entry
+
++@entry šamaššammū [sesame] N
+@form ŠE-GEŠ-I₃ $šamaššammī
+@form ŠE.GIŠ.I₃ $šamaššammī
+@sense N sesame
+@end entry
+
++@entry šammu [plant(s)] N
+@form ša-am-mi $šammī
+@sense N grass
+@end entry
+
++@entry šâmu [buy] V
+@form li-ša-mu-u₂ $lišāmū
+@form ša-ma-am-ma $šāmamma
+@form ta-ša-mi $tašāmī
+@form lu-ša-am-ma $lušāmma
+@form a-ša-mu-u₂ $ašāmu
+@form ša-am-ma $šāmma
+@sense V buy
+@end entry
+
++@entry šandalu [(a copper vessel)] N
+@form {uruda}ŠEN $šandalum
+@sense N (a copper vessel)
+@end entry
+
++@entry šangû [priest] N
+@form SANGA $šangâ
+@form LU₂.SANGA $šangûm
+@sense N temple manager
+@sense N temple administrator
+@end entry
+
++@entry šanītu [something other] AV
+@form ša-ni-tam $šanītam
+@sense AV something other
+@end entry
+
++@entry šanû [do twice] V
+@form aš-ni-i-ma $ašnima
+@form ši-ni-a $šiniā
+@sense V do twice
+@end entry
+
++@entry šanû [second] AJ
+@form ša-ni-i $šanî
+@sense AJ second
+@end entry
+
++@entry šanû [second] NU
+@form ša-ni-i-im $šannîm
+@sense NU second
+@end entry
+
++@entry šapāku [heap up] V
+@form li-iš-ša-pi₂-ik $liššapik
+@form šu-up-ka-ma $šupkamma
+@form šu-pu-uk $šupuk
+@sense V be stored
+@sense V heap up
+@end entry
+
++@entry šapāru [send] V
+@form li-iš-pur-am $lišpuram
+@form ta-aš-pur-am $tašpuram
+@form a-ša-pa-ra-ku-nu-ši-im $ašapparakkunūšim
+@form a-ša-pa-ra-ku-nu-ši $ašapparakkunūši
+@form aš-ta-pa-ar $aštapar
+@form ta-aš-pu-ra-ni-im $tašpurānim
+@form šu-pu-ur-ma $šupurma
+@form šu-up-ra-a-ma $šuprāma
+@form šu-up-ra-ni-im $šuprānim
+@form lu-uš-pu-ra-ak-kum-ma $lušpurakkumma
+@form aš-ta-ap-ra-ak-ku-um $aštaprakkum
+@form a-ša-ap-pa-ar $ašappar
+@form a-ša-ap-pa-ra-ak-ki-im $ašapparakkim
+@form aš-pu-ra-a-ak-ku-um-ma $ašpurakkumma
+@form aš-pu-ra-ak-kum-ma $ašpurakkumma
+@form aš-pu-ra-ak-kum $ašpurakkum
+@form aš-pu-ra-am $ašpuram
+@form aš-pur-ak-ku-nu-ši-im $ašpurakkunūšim
+@form aš-pur-am $ašpuram
+@form aš-ta-na-ap-pa-ra-am-ma $aštanapparamma
+@form aš-tap-ra-ak-ku-nu-ši-im $aštaprakkunūšim
+@form aš-tap-ra-am $aštapram
+@form iš-pu-ra-am $išpuram
+@form iš-pur-ra-an-ni-a-ši-im $išpurranniāšim
+@form iš-tap-ra-am $ištapram
+@form ta-aš-pu-ra-am $tašpuram
+@form ta-aš-pu-ri-im-ma $tašpurīmma
+@form ta-{RA}ša-ap-pa-ra-am $tašapparam
+@form šu-up-ra-am-ma $šupramma
+@form šu-up-ra-am $šupram
+@form šu-up-ra $šuprā
+@form šu-up-ri-im-ma $šuprīmma
+@form aš-pu-ra-kum $ašpurakkum
+@form iš-pu-ur₂-šu $išpuršu
+@form iš-pu-ur₂-šum $išpuršum
+@form aš-pu-ur-ma $ašpurma
+@form aš-ta-ap-ra-ak-kum $aštaprakkum
+@form i-ša-ap-pa-ra-ak-kum $išapparakkum
+@form aš-pu-ra-ak-ki-im $ašpurakkim
+@form ni-iš-pu-ra-am $nišpuram
+@form aš-ta-na-ap-pa-ar-ma $aštanapparma
+@form ta-aš-pu-ri-im $tašpurīm
+@form iš-pu-ra-am-ma $išpuramma
+@form ta-aš-pu-ri $tašpurī
+@form aš-tap-ra-ak-kum $aštaprakkum
+@form aš-pu-ra-ku-nu-ši-im $ašpurakkunūšim
+@form šu-pu-ur-šu-um-ma $šupuršumma
+@form a-ša-pa₂-ra-kum $ašapparakkum
+@form aš-pu-ra-ku $ašpurakku
+@form iš-ta-ap-ra-am $ištapram
+@form ta-aš-pu-ra-ni $tašpurāni
+@form a-ša-pa-ra-ku-um $ašapparakkum
+@sense V write
+@sense V issue (written) orders
+@sense V send
+@sense V send as messenger
+@end entry
+
++@entry šapāru [sennd] V
+@form šu-up-ra-nim $šuprānim
+@sense V write
+@end entry
+
++@entry šāpiru [giver of instructions] N
+@form ša-pi₂-ir-ni $šāpirini
+@form ša-pi₂-ir-ni $šāpirni
+@form ša-pi₂-ri-ia $šāpiriya
+@form ša-pi₂-ri-ni $šāpirini
+@form ša-pi₂-ri $šāpirī
+@form ša-pi-ra-am $šāpiram
+@form ša-pe₂-er $šāper
+@form ša-pi₂-ir $šāpir
+@form ša-pe₂-ir-ni $šāperini
+@form ša-pe₂-ir-ni $šāperni
+@form ša-pe₂-ri-ia $šāperiya
+@form ša-pe₂-ri-ni $šāperini
+@form ša-pe₂-ri $šāperī
+@sense N boss
+@sense N giver of instructions
+@sense N governor
+@end entry
+
++@entry šapku [heaped up] AJ
+@form ša-ap-ku $šapku
+@sense AJ stored
+@end entry
+
++@entry šaplû [low] AJ
+@form ša-ap-li-i $šaplî
+@sense AJ low
+@end entry
+
++@entry šaplu [underside] N
+@form ša-pa-al $šapal
+@sense PRP below
+@end entry
+
++@entry šaptu [lip] N
+@form ša-ap-ti $šapti
+@form ša-ap-ti-ia $šaptīya
+@sense N lip
+@end entry
+
++@entry šaqālu [weigh] V
+@form u₂-ša-aš-qa₂-al-ka $ušašqalka
+@form ta-ša-qa₂-li-ma $tašaqqalīma
+@sense V weigh
+@sense V pay
+@end entry
+
++@entry šaqû [be(come) high] V
+@form iš-qa₂-a-am $išqâm
+@sense V be(come) high
+@end entry
+
++@entry šār [3,000] NU
+@form MU.ŠAR₂.KAM $šār $(šanātim)
+@sense N myriad
+@end entry
+
++@entry šār [3600] NU
+@form MU.ŠAR₂.KAM $šār $(šanātim)
+@form ŠAR₂ $šār
+@sense N myriad
+@end entry
+
++@entry šarāqu [steal] V
+@form ša-ra-qi₂-im $šarāqim
+@sense N stealing
+@end entry
+
++@entry šarāru [(a human activity)] V
+@form iš-ta-na-ar-ra-ar $ištanarrar
+@form ta-aš₂-ta-na-ar-ra-ar $taštanarrar
+@sense V scintillate
+@end entry
+
++@entry šarrāqu [thief] N
+@form šar-ra-qi₂-ia $šarrāqīya
+@sense N thief
+@end entry
+
++@entry šarru [king] N
+@form LUGAL $šarrim
+@form LUGAL $šarram
+@form šar-ru-um-ma $šarrumma
+@form šar-ri-im $šarrim
+@sense N king
+@end entry
+
++@entry šārtu [hair] N
+@form šar-ta-am $šārtam
+@sense N hair
+@end entry
+
++@entry šasû [shout] V
+@form ti-si-i-ma $tissima
+@form li-is-su-ni-kum-ma $lissūnikkumma
+@form ti-si-ma $tissima
+@form is₃-si-am $issiam
+@form is-si-ma $issima
+@form i-si-ma $issima
+@form is₃-si $issi
+@form iš₇-ta-si-ma $ištasima
+@form li-su-ni-ik-kum-ma $lissūnikkumma
+@sense V lay a claim
+@sense V shout
+@sense V upbraid
+@sense V call
+@end entry
+
++@entry šattišamma [year by year] AV
+@form ša-at-ti-ša-ma $šattišamma
+@sense AV yearly
+@end entry
+
++@entry šattu [year] N
+@form MU.ŠAR₂.KAM $(šār) $šanātim
+@form ša-at-tim $šattim
+@form ša-na-ti-im $šanātim
+@form MU $šanat
+@form MU.7(diš).KAM $(sebe) $šanāti
+@sense N year
+@end entry
+
++@entry šaṭāru [write (down)] V
+@form ta-aš-ṭu₂-ra-ni-im $tašṭurānim
+@form aš-ṭu₂-ur-ma $ašṭurma
+@form šu-uṭ-ra-am-ma $šuṭramma
+@sense V record
+@sense V write (down)
+@end entry
+
++@entry šeʾu [barley] N
+@form ŠE-a-am $šeʾam
+@form ŠE-am $šeʾam
+@form ŠE-šu-nu $šêšunu
+@form ŠE-e $šê
+@form ŠE-im $šeʾim
+@form ŠE-um $šeʾum
+@form ŠE.GUR $šeʾam
+@form ŠE.GUR $šeʾim
+@form ŠE $šeʾim
+@form še-a-am $šeʾam
+@form še-am $šeʾam
+@form še-e $šê
+@form še-im $šeʾim
+@form še-um $šeʾum
+@form še-šu $šêšu
+@form ŠE $še'am
+@form ŠE-a-šu $šeʾašu
+@form ŠE-u₄-um $šeʾum
+@form ŠE $šeʾam
+@sense N grain
+@end entry
+
++@entry šemû [hear] V
+@form eš-me-e-ma $ešmema
+@form eš-mu-u₂ $ešmû
+@form ni-še-me₂ $nišemme
+@form te-eš-mu-u₂-ma $tešmûma
+@form ši-me-a $šimeā
+@form še-me-em $šemêm
+@form eš-me $ešme
+@form ši-me $šime
+@form eš₁₅-me-e-ma $ešmēma
+@form te-eš₁₅-me-e $tešmê
+@form iš-mu-u₂ $išmû
+@sense V hear
+@sense V heed
+@sense N hearing
+@end entry
+
++@entry šemû [heard] AJ
+@form še-e-me-a-ku $šemeāku
+@sense AJ heard
+@end entry
+
++@entry šēpu [foot] N
+@form še-ep $šēp
+@form GIR₃ $šēp
+@sense N foot
+@sense PRP via
+@end entry
+
++@entry šerru [(young) child] N
+@form TUR.DIŠ $šerrī
+@form {lu₂}TUR.DIŠ $šer
+@sense N (young) child
+@end entry
+
++@entry šērtu [guilt] N
+@form še-er-tam $šērtam
+@sense N penalty
+@end entry
+
++@entry šētu [(hunting) net] N
+@form še-tim $šētim
+@sense N (hunting) net
+@end entry
+
++@entry šī [she] IP
+@form ši-i-ma $šīma
+@form ši-i $šī
+@form ši-ma $šīma
+@sense IP she
+@sense IP that
+@end entry
+
++@entry šiāti [her] IP
+@form ša-a-ti $šâti
+@sense IP her
+@end entry
+
++@entry šību [old (person)] N
+@form ši-bu-ut $šībūt
+@form ši-bu-ti-ia $šībūtiya
+@form ši-bi-ia $šībīya
+@form ši-bi-šu $šībīšu
+@sense N elder
+@sense N witness
+@end entry
+
++@entry šiddu [side] N
+@form ši-da-a-am $šiddam
+@sense N length
+@end entry
+
++@entry šina [they] IP
+@form ši-na $šina
+@sense IP they
+@end entry
+
++@entry šina [two] NU
+@form ši₂-ni-in $šinīn
+@sense NU two
+@end entry
+
++@entry šinšar [twelve] NU
+@form ši-in-ša-ar $šinšar
+@sense NU twelve
+@end entry
+
++@entry šīpāti [wool] N
+@form SIG₂ $šīpāti
+@sense N wool
+@end entry
+
++@entry šīpātu [wool] N
+@form SIG₂-HI.A $šīpātī
+@form SIG₂ $šīpātim
+@form ši-pa-tim $šīpātim
+@sense N wool
+@end entry
+
++@entry šipirtu [message] N
+@form ši-ip-ra-tim $šiprātim
+@sense N agricultural work
+@end entry
+
++@entry šipru [sending] N
+@form ši-ip-ra-a-am $šipram
+@form ši-ip-ri $šipri
+@form ši-ip-ra-am $šipram
+@form ši-ip-ri-im $šiprim
+@form ši₂-ip-ru-u₂ $šiprū
+@sense N work
+@sense N sending
+@sense N envoy
+@end entry
+
++@entry šiqlu [shekel] N
+@form GIN₂ $šiqil
+@form GIN₂ $šiqlim
+@sense N shekel
+@end entry
+
++@entry šīru [flesh] N
+@form ši₂-ir-ka₃ $šīrka
+@sense N flesh
+@end entry
+
++@entry šittu [remnant] N
+@form si-ti $sitti
+@sense N rest
+@end entry
+
++@entry šū [he] IP
+@form šu-u₂ $šū
+@form šu-u₂-ma $šūma
+@form šu-ma $šūma
+@sense DP that
+@sense IP he
+@end entry
+
++@entry šû [his] PP
+@form šu-a-at-tim $šuattim
+@sense PP his
+@end entry
+
++@entry šuāti [him] IP
+@form šu-a-ti $šuāti
+@form ša-a-ti-ma $šâtima
+@sense DP that
+@sense IP it
+@end entry
+
++@entry šubtu [seat] N
+@form šu-pa-at-ku-nu-u₂-ma $šupātkunuma
+@sense N encampment
+@sense N settlement
+@end entry
+
++@entry šukkallu [(a court official)] N
+@form {lu₂}SUKKAL $šukkal
+@sense N ruler
+@end entry
+
++@entry šulmu [completeness] N
+@form šu-lum-ki $šulumki
+@form šu-lu-um-ka $šulumka
+@form šu-lum-ka $šulumka
+@form šu-ul-mi-ka $šulmika
+@form šu-ul-mi-ku-nu $šulmikunu
+@form šu-{lum}ul-mi-ka $šulmika
+@form šu-ul-mi $šulmi
+@sense N greeting
+@sense N well-being
+@end entry
+
++@entry šulmu [well-being] N
+@form šu-lum $šulum
+@sense N well-being
+@end entry
+
++@entry šumēlu [the left] N
+@form šu-me-lim $šumēlim
+@sense N the left
+@end entry
+
++@entry šumma [if] MOD
+@form šum-ma $šumma
+@sense MOD if
+@end entry
+
++@entry šūmū [garlic] N
+@form šu-mi $šūmī
+@sense N garlic
+@end entry
+
++@entry šumu [name] N
+@form šu-ma-am $šumam
+@form šu-mi $šumi
+@form šum-ša $šumša
+@form šu-um-ša $šumša
+@sense N name
+@sense N fame
+@end entry
+
++@entry šunu [they] IP
+@form šu-nu-ma $šunuma
+@form šu-nu-u₂-ma $šunuma
+@sense IP they
+@end entry
+
++@entry šunû [theirs] PP
+@form šu-ni-a-am $šuniam
+@sense PP theirs
+@end entry
+
++@entry šunūti [them] IP
+@form šu-nu-ti $šunūti
+@sense IP those
+@end entry
+
++@entry šuplu [depth] N
+@form šu-up-lam $šuplam
+@sense N depth
+@end entry
+
++@entry šūši [sixty] NU
+@form šu-ši $šūši
+@sense NU sixty
+@end entry
+
++@entry šūt [those of] DET
+@form šu-ut $šūt
+@sense DET those of
+@end entry
+
++@entry šūt [who(m)] DET
+@form PA.PA-MEŠ-ma $šūt $(haṭṭātimma)
+@form PA.PA-MEŠ $šūt $(haṭṭātim)
+@sense DET those who(m)
+@end entry
+
++@entry šutaʾʾû [trifle] V
+@form tu-uš-ta-a $tuštaʾʾa
+@form tu-uš-ta-ha-a-ši $tuštaʾʾaši
+@form tu-uš-ta-hi-i-ša $tuštaʾʾiša
+@sense V treat lightly
+@sense V dismiss
+@end entry
+
++@entry šūzubtu [(gift)] N
+@form šu-zu-ub-ti-ka $šūzubtika
+@sense N outstanding payment?
+@end entry
+
+@letter T
+
++@entry tabāku [pour (out)] V
+@form li-it-bu-ku-{x}u₂ $litbukū
+@form tu-ub-ka-a $tubkā
+@sense V stockpile
+@sense V gather up
+@end entry
+
++@entry tabāku [pour(out)] V
+@form tu-ub-ka-ni-im $tubkānim
+@sense V gather up
+@end entry
+
++@entry tāhāzu [battle] N
+@form ta-ha-zi-im $tāhāzim
+@form ta-ha-za-am $tāhāzam
+@sense N battle
+@end entry
+
++@entry takittu [confirmation] N
+@form ta-ki-ta-a-am $takittam
+@form ta-ki-it-tum $takittum
+@sense N confirmation
+@end entry
+
++@entry taklu [reliable] AJ
+@form ta-ak-la-a-ku $taklāku
+@sense AJ trusted
+@end entry
+
++@entry tamkāru [merchant] N
+@form DAM.GAR₃-MEŠ $tamkārī
+@form DAM.GAR₃ $tamkārum
+@form LU₂.DAM.GAR₃ $tamkārim
+@form DAM.GAR₃ $tamkārim
+@sense N merchant
+@end entry
+
++@entry tamkārūtu [merchanthood] N
+@form DAM.GAR₃-ru-zu $tamkārūssu
+@sense N merchanthood
+@end entry
+
++@entry tamlīum [filling] N
+@form tam₂-li-am $tamlī'am
+@sense N terrace
+@end entry
+
++@entry tamû [swear] V
+@form i-ta-na-am-ma $ittanamma
+@form u₂-ta-me-ni-ma $utammênni
+@form li-ta-mi $litammi
+@sense V swear
+@sense V adjure
+@end entry
+
++@entry tappû [companion] N
+@form tap-pe₂-e $tappē
+@sense N partner
+@end entry
+
++@entry tappûtu [companionship] N
+@form tap-pu-ti-ia $tappûtiya
+@form tap-pu-ta-am $tappûtu
+@form tap-pu-ut-su₂ $tappûssu
+@form tap-pu-ti $tappûtī
+@form tap-pu-ut-su₂ $tappûss
+@sense N companionship
+@sense N partnership
+@sense N assistance
+@end entry
+
++@entry tarṣu [correct] AJ
+@form ta-ar-ṣa-am $tarṣam
+@sense AJ proper
+@end entry
+
++@entry târu [turn] V
+@form i-tu-ra-am $itūram
+@form ta-ri-im-ma $târimma
+@form it-tu-ur $ittūr
+@form a-tu-ra-am $atūram
+@form i-tu-ur $itūr
+@form it-tu-ur₂ $ittūr
+@form li-i-te-er-ru-ni-kum $literrûnikkum
+@form li-te-er-ra-am $literram
+@form te-ri-im-ma $terrimma
+@form it-tu-ru $ittūrū
+@form u₂-ta-ar-ra $utarra
+@form ta-ra-am $târamm
+@form i-tu-ra-kum $itūrakkum
+@form i-tu-ra-am $iturram
+@sense V turn
+@sense N returning
+@sense V become
+@sense V return
+@end entry
+
++@entry tarû [lead away] V
+@form ta-re-e-ia $tarêya
+@sense N fetching
+@end entry
+
++@entry tēkītu [complaint] N
+@form te-ki-tam $tēkītam
+@sense N grumbling
+@end entry
+
++@entry tēnīqu [suckling] N
+@form te-ni-qi₂-im $tēnīqim
+@sense N suckling
+@end entry
+
++@entry terdītu [addition] N
+@form ter-di-i-tim $terdītim
+@sense N addition
+@end entry
+
++@entry têrtu [instruction] N
+@form te-er-tam₂ $têrtam
+@form te-er-ti-i $têrtī
+@form te-re-ti-im $têrētim
+@form te₂-er-tam₂ $têrtam
+@form te-er-tam $têrtam
+@form te-er-ti $têrti
+@form te-er-tim $têrtim
+@form te-er-ti-ma $têrtimma
+@form te-er-ta-ni $têrtani
+@sense N omen
+@sense N instruction
+@end entry
+
++@entry tibnu [straw] N
+@form IN.NU.DA $tibnī
+@sense N chaff
+@end entry
+
++@entry tiṣbutu [clasping one another] AJ
+@form ti-iṣ-bu-ta-ti-na $tiṣbutātina
+@sense AJ quarreling
+@end entry
+
++@entry tuhhū [residue] N
+@form DUH $tuhhī
+@sense N residue
+@end entry
+
++@entry tuhhu [residue] N
+@form DUH $tuhhum
+@sense N bran
+@end entry
+
++@entry tukku [alarm] N
+@form tu-uk-ka $tukka
+@form tu-uk-ki $tukki
+@sense N warning
+@end entry
+
++@entry tukultu [trust] N
+@form TUKUL-ti-ki $tukultiki
+@sense N trust
+@end entry
+
+@letter Ṭ
+
++@entry ṭābu [good] AJ
+@form ṭa₃-bi-iš $ṭābiš
+@sense AJ good
+@end entry
+
++@entry ṭarādu [send off] V
+@form ṭu₂-ur-da-nim $ṭurdānim
+@form a-ṭa₂-ra-da-ku-nu-ši-im $aṭarradakkunūšim
+@form ta-aṭ-ru-da-ni-iš-šu $taṭrudāniššu
+@form ṭu₂-ur-da-ni-im-ma $ṭurdānimma
+@form ṭu₂-ur-da-ni-im $ṭurdānim
+@form aṭ-ṭar-da-aš-šu $aṭṭardaššu
+@form iṭ-ṭar-da-kum $iṭṭardakkum
+@form ṭu₂-ur-dam $ṭurdam
+@form ṭu₃-ur-da-aš-šu-nu-ti-ma $ṭurdaššunūtima
+@form aṭ-ṭar-da-kum $aṭṭardakkum
+@form aṭ-ṭar-dam $aṭṭardam
+@form ṭu₂-ur-da-aš-šu $ṭurdaššu
+@form ṭu₃-ur-dam $ṭurdam
+@form a-aṭ-ṭar-da-ak-kum $aṭṭardakkum
+@form aṭ-ru-ud $aṭrud
+@form ṭu₃-ur-da-am $ṭurdam
+@form a-ṭa-ra-da-ak-kum $aṭarradakkum
+@form aṭ-ṭar-da-ak-ku-uš $aṭarradakkuš
+@form ṭu₂-ur-da-am-ma $ṭurdamma
+@form iṭ-ru-da-am-ma $iṭrudamma
+@sense V dispatch
+@sense V send off
+@end entry
+
++@entry ṭardu [dispatched] AJ
+@form ṭa-ar-da-a-ta $ṭardāta
+@form ṭa₂-ri-ti₄-im $tarittim
+@sense AJ dispatched
+@sense AJ exiled
+@end entry
+
++@entry ṭehû [be(come) near to] V
+@form ṭe-he-e-em $ṭehêm
+@form i-ṭe-he-a-am $iṭehheam
+@form i-ṭe-he-a-ku-nu-ši-im $iṭehheakkunūšim
+@form u₂-ta-ha-ki-na-ti-ma $uṭahhākinātima
+@sense N arrival
+@sense V arrive
+@sense V be(come) near to
+@sense V present
+@end entry
+
++@entry ṭēhu [immediate vicinity] N
+@form ṭe-eh-šu $ṭēhšu
+@sense N neighbor
+@end entry
+
++@entry ṭēmu [(fore)thought] N
+@form ṭe₄-ma-am $ṭēmam
+@form ṭe₄-em-ka $ṭēmka
+@form ṭe-e-em-ki $ṭēmki
+@form ṭe-e-em $ṭēm
+@form ṭe-em $ṭēm
+@form ṭe₄-em-šu $ṭēmšu
+@form ṭe₄-em $ṭēm
+@form ṭe₄-mi $ṭēmi
+@form ṭe₄-mu-um $ṭēmum
+@form ṭe₄-e-mi-im $ṭēmim
+@form ṭe-e-em-ša $ṭēmša
+@sense N report
+@sense N (fore)thought
+@sense N news
+@end entry
+
++@entry ṭiābu [be(come) good] V
+@form i-ṭi-ba-a-ni-im $iṭibbānimma
+@form DU₁₀.GA $iṭīb
+@form ṭi₃-ib $ṭīb
+@sense V improve
+@sense V satisfy
+@end entry
+
++@entry ṭūdu [way] N
+@form ṭu₃-da-a-am $ṭūdam
+@sense N way
+@end entry
+
++@entry ṭuppu [(clay) tablet] N
+@form tu-up-pa-am $ṭuppam
+@form DUB-pa-šu $ṭuppašu
+@form DUB-pi₂-ia $ṭuppiya
+@form tup-pi₂-ka $ṭuppika
+@form ṭup-pa-a-tim $ṭuppātim
+@form ṭup-pa $ṭuppa
+@form ṭup-pi₂ $ṭuppi
+@form ṭup-pi₂ $ṭuppī
+@form DUB $ṭuppi
+@form ṭup-pi₂-ia $ṭuppiya
+@form ṭu₃-up-pi₂ $ṭuppī
+@form DUB-pa-ki $ṭuppaki
+@sense N (clay) tablet
+@end entry
+
++@entry ṭupšarru [scribe] N
+@form DUB.SAR $ṭupšar
+@sense N scribe
+@end entry
+
+@letter U
+
++@entry u [and] CNJ
+@form u₃ $u
+@form u₂ $u
+@sense CNJ and
+@end entry
+
++@entry ū [or] CNJ
+@form u₃ $ū
+@sense CNJ or
+@end entry
+
++@entry ubānu [finger] N
+@form u₂-ba-an $ubān
+@sense N finger
+@end entry
+
++@entry uhhuru [held back] AJ
+@form uh₂-hu-ru $uhhurū
+@form u₂-hu-ra $uhhura
+@sense AJ held back
+@end entry
+
++@entry uhhuru [remain] AJ
+@form u₂-hu-ru $uhhurū
+@sense AJ remain
+@end entry
+
++@entry ukullû [provisions] N
+@form u₂-ku-lu-um $ukullûm
+@form ŠA₃.GAL $ukullê
+@form ŠA₃.GAL $ukullâm
+@form u₂-ku-ul-li $ukullî
+@sense N provisions
+@sense N fodder
+@end entry
+
++@entry ul [not] MOD
+@form u₂-ul $ul
+@sense MOD not
+@end entry
+
++@entry ula [not] MOD
+@form u₂-la $ula
+@form u₂-la-a-mi $ulami
+@form u₃-la $ula
+@form u₂-la-ma-an $ulaman
+@sense MOD not
+@end entry
+
++@entry ullânu [there] AV
+@form ul-la-nu $ullânu
+@sense PRP except for
+@end entry
+
++@entry ullikīam [there] AV
+@form u₂-ul-li-ki-a-am $ullikīam
+@sense AV there
+@end entry
+
++@entry ulliš [later] AV
+@form u₂-ul-li-iš $ulliš
+@form u₃-li-iš $ulliš
+@form ul-li-iš $ulliš
+@sense AV there
+@end entry
+
++@entry ullû [that] DP
+@form ul-lu-tim $ullûtim
+@form ul-li-a-tim $ulliātim
+@sense DP that
+@end entry
+
++@entry ūmišam [daily] AV
+@form u-mi-ša-am-ma $ūmišamma
+@form u₄-mi-ša-am $ūmišam
+@form u₄-um-ša-am $ūmšam
+@sense AV daily
+@end entry
+
++@entry umma [saying] PRP
+@form um-ma $umma
+@form um-ma-a-mi $ummāmi
+@form um-ma-mi $ummami
+@form um-ma-mi $ummāmi
+@sense PRP saying
+@end entry
+
++@entry ummānu [army] N
+@form um-ma-a-nu-um $ummānum
+@form um-ma-an $ummān
+@form um-ma-na-a-am $ummānam
+@form um-ma-ni-šu $ummānišu
+@form um-ma-nu-um $ummānum
+@form ERIM $ummānim
+@form ERIM $ummānum
+@form ERIM $ummān
+@form um-ma-an-šu $ummānšu
+@sense N army
+@sense N troop
+@end entry
+
++@entry ummu [mother] N
+@form um-mi $ummi
+@form um-mi $ummī
+@sense N mother
+@end entry
+
++@entry ūmu [day] N
+@form U₄-mi $ūmī
+@form U₄ $ūmī
+@form u₄-mi $ūmī
+@form u₄-mi-im $ūmim
+@form U₄ $ūm
+@form U₄-mi-im $ūmim
+@form u₂-um $ūm
+@form u₄-um $ūm
+@form u₂-mi-ku-nu $ūmīkunu
+@form u₂-mi $ūmī
+@form u₂-mi-i-a $ūmiya
+@sense N day
+@end entry
+
++@entry unnedukku [letter] N
+@form un-ne-du-uk-ka-ka $unnedukkaka
+@form un-ne-du-uk-ki-i-im $unnedukkim
+@form un-ne-du-uk-ki-ia $unnedukkiya
+@form un-ne-du-uk-ki $unnedukkī
+@form un-ne-du-ka-ka $unnedukkaka
+@form un-ne-du-uk $unneduk
+@sense N letter
+@end entry
+
++@entry unūtu [tools] N
+@form u₂-nu-tim $unūtim
+@form u₂-nu-ut $unūt
+@sense N (meaning unknown)
+@sense N equipment
+@end entry
+
++@entry usātu [help] N
+@form u₂-sa-tum $usātum
+@form u₂-sa-at-ka $usātka
+@sense N help
+@end entry
+
++@entry ušallu [(fields) along valley bottom] N
+@form U₂.SAL.LA $ušallim
+@sense N (fields) along valley bottom
+@end entry
+
++@entry ušurtu [group of 10] N
+@form u₂-šu-ur-ta-am $ušurtam
+@form u₂-šu-ur-ti-im $ušurtim
+@sense N group of 10
+@end entry
+
++@entry utullu [chief herdsman] N
+@form u₂-tu-li-im $utullim
+@sense N chief herdsman
+@end entry
+
++@entry ūṭu [span] N
+@form u₂-ṭi-i-ma $ūṭīma
+@sense N half-cubit
+@end entry
+
++@entry uznu [ear] N
+@form uz-na-ia $uznāya
+@form uz-na-ka $uznāka
+@form uz-na-ša $uznāša
+@sense N ear
+@end entry
+
+@letter W
+
++@entry wabālu [bring] V
+@form u₂-ša-ba-lam-ma $ušabbalamma
+@form lu-ša-bi-la-ku-nu-ši-im-ma $lušābilakkunūšimma
+@form u₂-ša-bi-la-ku-nu-ši-im $ušābilakkunūšim
+@form šu-bi-la-ni-im $šūbilānim
+@form šu-bi-la-ni $šūbilāni
+@form šu-bu-ul $šūbul
+@form li-ib-lu-nim-ma $liblūnimma
+@form li-ib-lu-nim $liblūnim
+@form ub-ba-lam-ma $ubbalamma
+@form lu-ša-bi-la-ak-ku $lušābilakku
+@form lu-ša-bi-lu-nim $lušābilūnim
+@form tu-ša-ba-lim $tušabbalīm
+@form tu-ša-bi-la-am $tušābilam
+@form tu-ša-bi-la $tušābila
+@form uš-ta-bi-la-ak-kum $uštābilakkum
+@form uš-ta-bi-lam $uštābilam
+@form u₂-ša-ba-la-ak-ki-im $ušabbalakkim
+@form u₂-ša-bi-la-ak-kum-ma $ušābilakkumma
+@form u₂-ša-bi-la-am-ma $ušābilamma
+@form u₂-ša-bi-lam $ušābilam
+@form šu-bi-lam-ma $šūbilamma
+@form šu-bi-lam $šūbilam
+@form šu-bi-lim $šūbilīm
+@form šu-bu-li-im $šūbulim
+@form uš-ta-bi-il-ši-na-ti $uštābilšināti
+@form li-ib-lam $liblam
+@form ub-la-am-ma $ublamma
+@form ub-lam-ma $ublamma
+@form ub-lam $ublam
+@form ub-la-ši-ma $ublaššimma
+@form it-ba-al $itbal
+@form uš-ta-bi-la-kum $uštābilakkum
+@form tu-ba-la-a-ma $tubbalāma
+@form ub-ba-lu-ni-im $ubbalūnim
+@form tu-ša-ba-lam $tušabbalam
+@form ub-ba-al $ubbal
+@form tu-ša-bi-lam $tušābilam
+@form uš-ta-bi-la-ku-um $uštābilakkum
+@sense V send
+@sense N sending
+@sense V bring
+@sense V send off
+@sense V carry off
+@sense V handle
+@sense V sent
+@end entry
+
++@entry wadû [know] V
+@form lu-we-ed-di-šu-nu-ši-im-ma $luweddišunūšimma
+@sense V appoint
+@end entry
+
++@entry waklu [overseer] N
+@form UGULA $waklū
+@form UGULA $wakil
+@form UGULA $wakal
+@sense N general
+@sense N overseer
+@sense N chief merchant
+@end entry
+
++@entry waldu [born] AJ
+@form wa-al-da-at-ma $waldatma
+@sense AJ born
+@end entry
+
++@entry waqāru [be(come) rare] V
+@form u₂-wa-qa₂-ar-ku-nu-ši-im $uwaqqarkunūšim
+@sense V make scarce
+@end entry
+
++@entry waqāru [become rare] V
+@form i-iq-qe₂-er $iqqer
+@sense V be expensive
+@end entry
+
++@entry waqru [rare] AJ
+@form wa-aq-ra-am $waqram
+@sense AJ valuable
+@end entry
+
++@entry waqû [wait (for)] V
+@form u₂-qi₂-i-ka-ma $uqīkama
+@sense V wait (for)
+@end entry
+
++@entry warādu [go down] V
+@form ur-ra-dam $urradam
+@form ri-id-ma $ridma
+@form u₂-ur-ra-ad $urrad
+@form ur₂-ra-dam $urradam
+@form ur-dam-ma $urdamma
+@sense V come down
+@sense V go down
+@end entry
+
++@entry ward [slave] N
+@form SAG.IR₃ $wardim
+@sense N slave
+@end entry
+
++@entry wardatu [girl] N
+@form wa-ar-da-a-at $wardat
+@sense N girl
+@end entry
+
++@entry wardu [slave] N
+@form IR₃-ka $waradka
+@form SAG.IR₃ $wardim
+@form IR₃-ka-a-ma $waradkama
+@form ARAD₂-ka₃ $waradka
+@form ARAD $warad
+@form SAG.NITA₂ $wardum
+@form ARAD-MEŠ-ka-ma $wardūkama
+@form wa-ar-da $warda
+@form wa-ar-di $wardī
+@sense N slave
+@sense N servant
+@end entry
+
++@entry warhu [month] N
+@form wa-ar-hi-im $warhim
+@form ITI $warhim
+@sense N month
+@end entry
+
++@entry warkānu [later] AV
+@form wa-ar-ka-nu-um $warkānum
+@form wa-ar-ka-nu $warkānu
+@form wa-ar-ka-nu-ma $warkānumma
+@sense AV later
+@end entry
+
++@entry warkatu [rear] N
+@form wa-ar-ka-at $warkat
+@form wa-ar-ka-zu-nu $warkassunu
+@form wa-ar-ka-tam $warkatam
+@form wa-ar-ka-ta $warkata
+@form wa-ar-ka-su₂ $warkassu
+@form wa-ar-ka-ta-a-am $warkatam
+@sense N background (facts)
+@sense N backside
+@end entry
+
++@entry warki [after] PRP
+@form wa-ar-ki-ka₃ $warkika
+@form wa-ar-ki-ia $warkiya
+@form wa-ar-ki-šu-nu $warkišunu
+@sense PRP after
+@end entry
+
++@entry wâru [go (up to)] V
+@form li-wa-er-šu-nu-ti-i $liwa''eršunūti
+@form ta-wa-ra-a-ma $tawarrāma
+@form u₂-wa-e-ra-kum-ma $uwa''erakkumma
+@form u₂-wa-e-ra-ku-nu-ši-im $uwa''erakkunūšim
+@form u₂-wa-e-ra-an-ni $uwa''eranni
+@sense V instruct
+@sense V order
+@sense V commission
+@end entry
+
++@entry warû [lead] V
+@form u₂-ša-ra-ku-nu-ši-im $ušarrâkkunūšim
+@form šu-ri-a-šu $šūriaššu
+@form šu-ri-a-am $šūriam
+@form šu-re-eš-ši $šurêšši
+@form li-it-ta-ar-ru-u₂ $littarrû
+@form uš-ta-ri-a-ki-iš-ši $uštāriakkišši
+@form u₂-ša-ri-ši-ma $ušārišima
+@form i-tar{+ar}-ru-u₂ $itarrû
+@form tu-ri-ma $turima
+@form šu-ri-am $šūriam
+@form šu-ri-aš₂-šu $šūriaššu
+@form šu-ri-aš $šūriaš
+@form šu-re-em-ma $šūrêmma
+@sense V lead
+@sense V conduct
+@sense V lead away
+@end entry
+
++@entry waṣābu [add] V
+@form nu-ṣi-ib $nuṣib
+@sense V add
+@end entry
+
++@entry wāṣû [going out] AJ
+@form wa-ṣi-tum $wāṣītum
+@sense AJ going out
+@end entry
+
++@entry waṣû [go out] V
+@form uṣ-ṣi-i-ma $uṣṣima
+@form li-ṣi $līṣi
+@form tu-ṣu₂-u₂ $tūṣû
+@form u₂-uṣ-ṣi $uṣṣi
+@form šu-u₂-ṣi₂-ši $šūṣiši
+@form šu-ṣi₂-ši-ma $šūṣišima
+@form uṣ-ṣi $uṣṣi
+@form it-ta-ṣi $ittaṣi
+@sense V go out
+@sense V bring out
+@end entry
+
++@entry wašābu [sit (down)] V
+@form li-iš-bu-u₂-ma $lišbûma
+@form li-iš-bu-u₂ $lišbû
+@form li-ši-ib $līšib
+@form li-ši-im-ma $lišimma
+@form uš-ša-ba $uššabā
+@form ta-ša-ab $taššab
+@form u₂-ši-im-ma $ušimma
+@form a-ta-ša-ab $attašab
+@sense V stay
+@sense V remain
+@end entry
+
++@entry wašāru [sink down] V
+@form tu-ta-na-ša-ra $tūtanaššarā
+@form tu-wa-ša-ra $tuwaššarā
+@form tu-ta-na-ša-ra-ma $tūtanaššarāma
+@form tu-wa-ša-a-ra $tuwaššarā
+@form wu-še-er-šu-nu-ti $wuššeršunūti
+@form u₂-wa-aš-ša-ar-šum $uwaššaršum
+@form tu₃-wa-ša-ar-šu $tuwaššaršu
+@form wa-aš-ša-ru $uwaššaru
+@form wu-uš-še-er $wuššer
+@form wu-še₂₀-er $wuššer
+@sense V release
+@sense V loosen
+@end entry
+
++@entry wašbu [dwelling] AJ
+@form wa-aš-ba-ku $wašbāku
+@sense AJ dwelling
+@end entry
+
++@entry wašbu [settled] AJ
+@form wa-aš-ba-tu-nu $wašbātunu
+@form wa-ši-ib $wašib
+@form wa-ši-ib $wašib
+@form wa-aš-ba-a-ku $wašbāku
+@form wa-aš-ba-at $wašbat
+@form wa-aš₂-ba-ku $wašbāku
+@form wa-aš-bu $wašbû
+@form wa-aš-bu $wašbu
+@sense AJ settled
+@sense AJ stationary
+@sense AJ staying
+@sense AJ stationed
+@end entry
+
++@entry watāru [be(come) outsize] V
+@form wa-tar $watār
+@sense N exaggeration
+@end entry
+
++@entry watru [huge] AJ
+@form wa-at-ra-am $watram
+@sense AJ surplus
+@end entry
+
++@entry watû [find] V
+@form nu-uš-ta-ti-i-ma $nuštatîma
+@form nu-uš-ta-tu-u₂ $nuštatû
+@form šu-ta-ti-ma $šutātima
+@form šu-ta-ti-a $šutātiā
+@sense V meet
+@end entry
+
++@entry werû [copper] N
+@form ZABAR-HI.A $werî
+@sense N copper
+@end entry
+
++@entry wuʾʾurtu [commission] N
+@form u₂-ur-tam $wuʾʾurtam
+@sense N command
+@end entry
+
+@letter Y
+
++@entry yāʾu [my] PP
+@form iu-u₂-tu-un $yûttun
+@sense PP my
+@end entry
+
++@entry yašibu [battering-ram] N
+@form {geš}ia₈-ši-bi $yašibī
+@sense N battering-ram
+@end entry
+
++@entry yâti [me] IP
+@form ia-ti $yâti
+@form i-ia-ti $iyāti
+@sense IP me
+@end entry
+
++@entry yû [mine] PP
+@form i-yu-ut-tu-un $iyuttun
+@form ia-at-tam $yattam
+@sense PP mine
+@end entry
+
+@letter Z
+
++@entry zabālu [carry] V
+@form tu-sa-ba-al $tusabbal
+@sense V keep waiting
+@end entry
+
++@entry zabardabbūtu [post of zabardabbu] N
+@form za-ma-ar-da-bu-tim $zamardabbūtim
+@sense N post of zabardabbu
+@end entry
+
++@entry zakāru [speak] V
+@form lu-uz₂-ku-ra-ku-nu-ši-ma $luzkurakkunūšimma
+@sense V swear
+@end entry
+
++@entry zakû [pure] AJ
+@form za-ku-ta-am $zakûtam
+@sense AJ winnowed
+@end entry
+
++@entry zâzu [divide] V
+@form i-zu-u₂-zu $izūzū
+@form i-zu-za-ki-na-ši-im $izuzzakkināšim
+@form i-zu-zu-šu-um $izūzūšum
+@form za-a-zi $zâzi
+@sense V divide
+@sense N distributing
+@end entry
+
++@entry zenû [be angry] V
+@form i-za-na-šum $izannâššum
+@sense V be angry
+@end entry
+
++@entry zêru [hate] V
+@form te-zi-i-ru $tezīru
+@sense V spurn
+@end entry
+
++@entry zēru [seed(s)] N
+@form NUMUN $zērī
+@form ŠE.NUMUN $zērī
+@sense N seed(s)
+@end entry
+
++@entry zittu [share] N
+@form zi-it-ta-am $zittam
+@form zi-it-ti $zittī
+@sense N share
+@end entry
+
++@entry zumru [body] N
+@form zu-mu-ur $zumur
+@form zu-um-ri-i-ia $zumriya
+@sense N interior
+@sense N person
+@end entry
+
