@@ -1,10 +1,12 @@
 
 html = """
+<html>
+<body>
 <table style="width:100%">
 <tr>
-<th>Logogram</th>
-<th>Akkadian</th>
-<th>English</th>
+<th style="text-align:left">Logogram</th>
+<th style="text-align:left">Akkadian</th>
+<th style="text-align:left">English</th>
 </tr>
 """
 
@@ -16,7 +18,7 @@ for entry in data:
         form, cf, gw = entry.split('#')
         html += "<tr><td>" + form + "</td><td>" + cf + "</td><td>" + gw + "</td></tr>" + '\n'
 
-html += '</table>'
+html += '</table></body></html>'
 
 with open('data/logograms.html', 'w') as f:
     f.write(html)
