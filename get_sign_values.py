@@ -1,6 +1,10 @@
 import re
 
-with open('/Users/oeyvind/Google Drive/Projects/AkkEC/temp/akk.glo', 'r') as f:
+# Set these two. files are downloaded to the temp folder.
+glossary = 'akk.glo'
+project = 'akkec_ur3akk'
+
+with open('/Users/oeyvind/Google Drive/Projects/AkkEC/temp/' + glossary, 'r') as f:
     data = f.read().split('\n\n')
 
 values = set()
@@ -28,9 +32,8 @@ for entry in data:
             for each in form.replace('-', ' ').replace('.', ' ').split():
                 values.add(each)
 
-print(list(values))
+path = 'sign_values/' + project + '.txt'
 
-with open('data/values.txt', 'w') as f:
-    values = sorted(list(values))
-    for value in values:
-        f.write(value + '\n')
+with open(path, 'w') as f:
+    values = str(sorted(list(values)))
+    f.write(values)
