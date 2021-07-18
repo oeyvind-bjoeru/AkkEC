@@ -35,5 +35,6 @@ for entry in data:
 path = 'sign_values/' + project + '.txt'
 
 with open(path, 'w') as f:
-    values = str(sorted(list(values)))
-    f.write(values)
+    values = sorted(list(values))
+    for value in values:
+        f.write(value + '\n')
