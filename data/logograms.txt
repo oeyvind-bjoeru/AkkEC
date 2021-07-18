@@ -1,150 +1,40 @@
-A.ZU.GAL#azugallu#chief physician
 A.ŠA₃#eqlu#field
-AB₂#arhu#cow
-AB₂.GU₄#lītu#cow
-AGA.UŠ#rēdû#footsoldier
-AGRIG#abarakku#steward
-AN.ZA.GAR₃#dimtu#tower
-ARAD#wardu#slave
 ARAD₂#wardu#slave
-AŠA₅#eqlu#field
-BAD₃#dūru#(city) wall
-BAR.SI#paršīgu#headdress
+BAPPIR₂#bappiru#beer bread
+BAR.DUL₅#kusītu#robe
+BURU₁₄.ŠE₃#ebūru#harvest
 DAM.GAR₃#tamkāru#merchant
-DAM.GAR₃#tamkārūtu#merchanthood
-DI.KUD#dayyānu#judge
-DI.KU₅#dayyānu#judge
-DINGIR#ilu#god
 DUB#ṭuppu#(clay) tablet
 DUB.SAR#ṭupšarru#scribe
-DUH#tuhhu#residue
-DUH#tuhhū#residue
 DUMU#māru#son
-DUMU.MUNUS#mārtu#daughter
-DURU₅#raṭbu#damp
-DUSU₂#agālu#donkey
-DU₁₀.GA#ṭiābu#be(come) good
-E.IB₂#misarru#belt
-ERIM#ummānu#army
-ERIN₂#ṣābu#people
-EZEN#isinnu#festival
-E₂#bītu#house
-E₂.GAL#ēkallu#palace
-GAL#kāsu#cup
-GALA#kalû#lamentation-priest
-GAN₂#ikû#field
-GEME₂#amtu#maid
-GI#qanû#reed
-GIGIR#narkabtu#chariot
+DUR₁₀.TAB.BA#pāštu#axe
+DU₁₀.GA#ṭābu#good
+EGIR#warki#after
+ERIN#erēnu#cedar
+GALA#kalûtu#lamentation-priesthood
+GIBIL₄#eššu#new
+GIN#kīnu#permanent
 GIN₂#šiqlu#shekel
-GIR₃#šēpu#foot
-GU.ZA#kussû#chair
-GU.ZA.LA₂#guzalû#chair-carrier
-GUR#karû#grain-heap
-GU₂#ahu#arm
-GU₂#biltu#load
-GU₂.UN#biltu#load
-GU₄#alpu#bull
-GU₄.ŠE#alpu#bull
-GU₄.ŠE#marû#fattened
-HA.ZA.NU.UM#hazannu#alliaceous vegetable
-HUN.GA₂#agru#hireling
-IGI#mahru#front
-IGI.GAL₂#kalbānātu#(a siege instrument)
-IN.NU.DA#tibnu#straw
+GUZ.ZA#iʾlu#contract
 IRI#ālu#city
-IR₃#wardu#slave
-ITI#warhu#month
-IZ.ZI#igāru#wall
-I₇.DA#nāru#river
-KA#pû#mouth
-KAŠ₄.E#lāsimu#swift
-KA₂#bābu#gate
-KA₂.GAL#abullu#gate
-KIRI₆#kirû#orchard
-KISLAḪ#maškanu#threshing floor
-KURUN₂.NA#sābû#brewer
-KUR₂#nakru#strange
-KUŠ₃#ammatu#forearm
-KU₃#kaspu#silver
+I₃#šamnu#oil
+I₃.GEŠ#šamnu#oil
+KI#itti#with
+KIŠIB₃#kunukku#seal
 KU₃.BABBAR#kaspu#silver
-KU₃.SIG₁₇#hurāṣu#gold
-LI#līmu#thousand
 LUGAL#šarru#king
-LUKUR#nadītu#fallow woman
 LU₂#awīlu#man
-LU₂.DAM.GAR₃#tamkāru#merchant
-LU₂.SANGA#šangû#priest
 MA.NA#manû#unit
-MAH#ṣīru#exalted
-MAŠ₂.ŠU.GID₂.GID₂#bārû#diviner
-MA₂#eleppu#ship
-MA₂#ša#of
-ME#meʾatu#hundred
-MU#šattu#year
-MU.7(diš).KAM#sebû#seven
-MU.7(diš).KAM#šattu#year
-MU.ŠAR₂.KAM#šattu#year
-MU.ŠAR₂.KAM#šār#3,000
-MU.ŠAR₂.KAM#šār#3600
-MUHALDIM#nuhatimmu#cook
-MUNUS.TUR#ṣehertu#(little) girl
-MUNUS.TUR#ṣuhartu#girl
-NA.AŠ.BAR#našparu#messenger
-NIG₂#makkūru#property
-NIG₂.KA₉#nikkassu#account(s)
-NIG₂.LAM₂#lamahuššû#(a ceremonial garment)
-NINDA#akalu#bread
-NINDA#akalu#food
-NINDA#nindanu#rod
-NU.BANDA₃#laputtû#lieutenant
-NUMUN#zēru#seed(s)
-PA.PA#haṭṭu#stick
-PA.PA#šūt#who(m)
-RA₂.GABA#rakbu#mounted messenger
-SAG.GEME₂#amtu#maid
-SAG.IR₃#ward#slave
-SAG.IR₃#wardu#slave
-SAG.NITA₂#wardu#slave
-SAG₁₀#damqu#good
-SANGA#šangû#priest
-SAR#kirû#orchard
-SAR#mūšaru#(flower, vegetable) bed
-SIG₂#šīpāti#wool
-SIG₂#šīpātu#wool
-SIG₄#libittu#mudbrick
-SIG₅#damqu#good
-SIPA#rēʾû#shepherd
-SIPA#rēˀû#shepherd
-SUKKAL#šukkallu#(a court official)
-TUKUL#kakku#stick
-TUKUL#tukultu#trust
-TUR.DIŠ#šerru#(young) child
-UDU.NITA₂#immeru#sheep
-UDU.ŠE#immeru#sheep
-UDU.ŠE#marû#fattened
-UGULA#waklu#overseer
-URU#ālu#city
-U₂.SAL.LA#ušallu#(fields) along valley bottom
-U₄#ūmu#day
-U₈.UDU#ṣēnu#flock
-ZABAR#werû#copper
-ŠAR₂#šār#3600
-ŠA₃#libbu#inner body
-ŠA₃#libbu#interior
-ŠA₃.BI.TA#ina#in
-ŠA₃.BI.TA#libbu#interior
+MUNU₆#buqlu#malt
+NAR#nārūtu#profession of musician
+NIG₂.ŠU#būšu#goods
+NIN₉#ahātu#sister
+NU.BANDA₃.NU.BANDA₃#laputtû#lieutenant
+SILA₃#qû#unit
+UDU#ṣēnu#flock
+ZU₂.LUM#suluppu#date
 ŠA₃.GAL#ukullû#provisions
-ŠA₃.GU₄#kullizu#ox-driver
-ŠE#šeʾu#barley
-ŠE.GEŠ.I₃#šamaššammū#sesame
-ŠE.GIŠ.I₃#šamaššammū#sesame
 ŠE.GUR#šeʾu#barley
-ŠE.NUMUN#zēru#seed(s)
-ŠEN#šandalu#(a copper vessel)
-ŠITIM#itinnu#builder
-ŠU#qātu#hand
-ŠU.DU₃.A#qātu#hand
-ŠU.I#gallābu#barber
-ŠUB.BA#nadû#placed
-ŠUKU#kurummatu#food allocation
+ŠEN.DIL#šandalu#(a copper vessel)
+ŠU.TI.A#leqû#taken
+ŠUM₂.MU.DAM#nadānu#give

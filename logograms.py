@@ -1,6 +1,6 @@
 import re
 
-with open('data/akk-x-oldbab.glo', 'r') as f:
+with open('/Users/oeyvind/Google Drive/Projects/AkkEC/temp/akk.glo', 'r') as f:
     data = f.read().split('\n\n')
 
 logograms = set()
